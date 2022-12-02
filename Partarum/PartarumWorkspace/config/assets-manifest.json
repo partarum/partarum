@@ -1,0 +1,11 @@
+{
+  "Partarum/PartarumWorkspace/assets/css/font-awesome.min.css": "Partarum/PartarumWorkspace/public/assets/css/font-awesome.min.css",
+  "Partarum/PartarumWorkspace/assets/css/plainPHP.css": "Partarum/PartarumWorkspace/public/assets/css/plainPHP.css",
+  "Partarum/PartarumWorkspace/assets/css/workspace.css": "Partarum/PartarumWorkspace/public/assets/css/workspace.css",
+  "Partarum/PartarumWorkspace/css": "Partarum/PartarumWorkspace/public/assets/css/workspace.css",
+  "Partarum/PartarumWorkspace/assets/js/plainPHP/landingPage.js": "Partarum/PartarumWorkspace/public/assets/js/plainPHP/landingPage.js",
+  "Partarum/PartarumWorkspace/assets/js/plainPHP/partarumPage.js": "Partarum/PartarumWorkspace/public/assets/js/plainPHP/partarumPage.js",
+  "Partarum/PartarumWorkspace/assets/js/headroom.min.js": "Partarum/PartarumWorkspace/public/assets/js/headroom.min.js",
+  "Partarum/PartarumWorkspace/assets/js/plainPHP/setHeadroom.js": "Partarum/PartarumWorkspace/public/assets/js/plainPHP/setHeadroom.js",
+
+}

@@ -1,0 +1,29 @@
+partarum-bottom-bar, partarum-bottom-bar-body {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    height: 10vh;
+}
+
+partarum-bottom-bar-body {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    align-items: center;
+}
+
+partarum-bottom-bar-body > section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+partarum-bottom-bar-body :first-child {
+    justify-content: flex-start;
+    padding-left: 1rem;
+}
+
+partarum-bottom-bar-body :last-child {
+    justify-content: flex-end;
+    padding-right: 1rem;
+}

@@ -1,0 +1,2965 @@
+[
+    {
+        "dirname": "Partarum",
+        "basename": "error.php",
+        "extension": "php",
+        "filename": "error"
+    },
+    {
+        "dirname": "Partarum",
+        "basename": "setAutoloader.php",
+        "extension": "php",
+        "filename": "setAutoloader"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS",
+        "basename": "partarum.css",
+        "extension": "css",
+        "filename": "partarum"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS",
+        "basename": ".htaccess",
+        "extension": "htaccess",
+        "filename": ""
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/PartarumElements",
+        "basename": "bottomBar.css",
+        "extension": "css",
+        "filename": "bottomBar"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/PartarumElements",
+        "basename": "cardBox.css",
+        "extension": "css",
+        "filename": "cardBox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/PartarumElements",
+        "basename": "cookieBanner.css",
+        "extension": "css",
+        "filename": "cookieBanner"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/PartarumElements",
+        "basename": "menuHamburger.css",
+        "extension": "css",
+        "filename": "menuHamburger"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/PartarumElements",
+        "basename": "navBar.css",
+        "extension": "css",
+        "filename": "navBar"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/SingleBoxCenter",
+        "basename": "root.css",
+        "extension": "css",
+        "filename": "root"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/SingleBoxCenter\/medium",
+        "basename": "root.css",
+        "extension": "css",
+        "filename": "root"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/SingleBoxCenter\/medium",
+        "basename": "queries.css",
+        "extension": "css",
+        "filename": "queries"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/SingleBoxCenter\/small",
+        "basename": "root.css",
+        "extension": "css",
+        "filename": "root"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/SingleBoxCenter\/small",
+        "basename": "queries.css",
+        "extension": "css",
+        "filename": "queries"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/SingleBoxCenter\/large",
+        "basename": "root.css",
+        "extension": "css",
+        "filename": "root"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/SingleBoxCenter\/large",
+        "basename": "queries.css",
+        "extension": "css",
+        "filename": "queries"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/SingleBoxCenter",
+        "basename": "queries.css",
+        "extension": "css",
+        "filename": "queries"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/Design",
+        "basename": "singleBoxCenter.css",
+        "extension": "css",
+        "filename": "singleBoxCenter"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/Design",
+        "basename": "singleBoxCenter_medium.css",
+        "extension": "css",
+        "filename": "singleBoxCenter_medium"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/Design",
+        "basename": "singleBoxCenter_large.css",
+        "extension": "css",
+        "filename": "singleBoxCenter_large"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/Design",
+        "basename": "singleBoxCenter_small.css",
+        "extension": "css",
+        "filename": "singleBoxCenter_small"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS\/Queries",
+        "basename": "partarum_centerBox.css",
+        "extension": "css",
+        "filename": "partarum_centerBox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS",
+        "basename": "partarum_elements.css",
+        "extension": "css",
+        "filename": "partarum_elements"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCSS",
+        "basename": "partarum_split.css",
+        "extension": "css",
+        "filename": "partarum_split"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumTemplates",
+        "basename": "linkBox.js",
+        "extension": "js",
+        "filename": "linkBox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumTemplates\/Forms",
+        "basename": "registration_small.js",
+        "extension": "js",
+        "filename": "registration_small"
+    },
+    {
+        "dirname": "Partarum",
+        "basename": "Partarum.php",
+        "extension": "php",
+        "filename": "Partarum"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/Filesystem\/config",
+        "basename": "allFilesInfo.json",
+        "extension": "json",
+        "filename": "allFilesInfo"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/Filesystem\/config",
+        "basename": "allFiles.json",
+        "extension": "json",
+        "filename": "allFiles"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/Filesystem",
+        "basename": "allFilesInfo.json",
+        "extension": "json",
+        "filename": "allFilesInfo"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/Filesystem\/cli",
+        "basename": "allFilesInfo.json",
+        "extension": "json",
+        "filename": "allFilesInfo"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/Filesystem\/cli",
+        "basename": "allFiles.json",
+        "extension": "json",
+        "filename": "allFiles"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/Filesystem",
+        "basename": "allFiles.json",
+        "extension": "json",
+        "filename": "allFiles"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/Filesystem\/API",
+        "basename": "allFilesInfo.json",
+        "extension": "json",
+        "filename": "allFilesInfo"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/Filesystem\/API",
+        "basename": "allFiles.json",
+        "extension": "json",
+        "filename": "allFiles"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/Filesystem\/app",
+        "basename": "allFilesInfo.json",
+        "extension": "json",
+        "filename": "allFilesInfo"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/Filesystem\/app",
+        "basename": "allFiles.json",
+        "extension": "json",
+        "filename": "allFiles"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/Checkup",
+        "basename": "firstCheckFile.json",
+        "extension": "json",
+        "filename": "firstCheckFile"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/Checkup",
+        "basename": "firstTimeAllFiles.json",
+        "extension": "json",
+        "filename": "firstTimeAllFiles"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/System",
+        "basename": "checkUserWithRoot.json",
+        "extension": "json",
+        "filename": "checkUserWithRoot"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLog\/System",
+        "basename": "checkUserWithNormalUser.json",
+        "extension": "json",
+        "filename": "checkUserWithNormalUser"
+    },
+    {
+        "dirname": "Partarum",
+        "basename": "startPartarum.php",
+        "extension": "php",
+        "filename": "startPartarum"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumAPI",
+        "basename": "toWebp.php",
+        "extension": "php",
+        "filename": "toWebp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLorem",
+        "basename": ".DB.json",
+        "extension": "json",
+        "filename": ".DB"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumLorem\/SharedMemory",
+        "basename": ".SM.json",
+        "extension": "json",
+        "filename": ".SM"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumConfig",
+        "basename": "autoload-manifest.json",
+        "extension": "json",
+        "filename": "autoload-manifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumConfig",
+        "basename": "partarumPHP-manifest.json",
+        "extension": "json",
+        "filename": "partarumPHP-manifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumConfig",
+        "basename": "AutoloadManifest.php",
+        "extension": "php",
+        "filename": "AutoloadManifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumConfig",
+        "basename": "partarum-manifest.json",
+        "extension": "json",
+        "filename": "partarum-manifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumConfig",
+        "basename": "partarum-manifest-original.json",
+        "extension": "json",
+        "filename": "partarum-manifest-original"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumConfig",
+        "basename": "partarum-manifest-original_array.json",
+        "extension": "json",
+        "filename": "partarum-manifest-original_array"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/etc",
+        "basename": "websocket-manifest.json",
+        "extension": "json",
+        "filename": "websocket-manifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/etc",
+        "basename": "root.json",
+        "extension": "json",
+        "filename": "root"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI",
+        "basename": "PartarumServer.php",
+        "extension": "php",
+        "filename": "PartarumServer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/bin",
+        "basename": "setRoot.php",
+        "extension": "php",
+        "filename": "setRoot"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/bin",
+        "basename": "setPartarumManifestArray.php",
+        "extension": "php",
+        "filename": "setPartarumManifestArray"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/bin",
+        "basename": "getAllFiles.php",
+        "extension": "php",
+        "filename": "getAllFiles"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/bin",
+        "basename": "testConnectLocalhost.php",
+        "extension": "php",
+        "filename": "testConnectLocalhost"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/bin",
+        "basename": "webp.php",
+        "extension": "php",
+        "filename": "webp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/bin",
+        "basename": "setFileLog.php",
+        "extension": "php",
+        "filename": "setFileLog"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/bin",
+        "basename": "getUserInfo.php",
+        "extension": "php",
+        "filename": "getUserInfo"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Filesystem",
+        "basename": "File.php",
+        "extension": "php",
+        "filename": "File"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Filesystem",
+        "basename": "Toggle.php",
+        "extension": "php",
+        "filename": "Toggle"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Filesystem",
+        "basename": "FolderType.php",
+        "extension": "php",
+        "filename": "FolderType"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Filesystem",
+        "basename": "Copy.php",
+        "extension": "php",
+        "filename": "Copy"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Filesystem",
+        "basename": "FolderPath.php",
+        "extension": "php",
+        "filename": "FolderPath"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Filesystem",
+        "basename": "testEnum.php",
+        "extension": "php",
+        "filename": "testEnum"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Filesystem",
+        "basename": "PartarumType.php",
+        "extension": "php",
+        "filename": "PartarumType"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Filesystem",
+        "basename": "Folder.php",
+        "extension": "php",
+        "filename": "Folder"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Filesystem",
+        "basename": "Handle.php",
+        "extension": "php",
+        "filename": "Handle"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Filesystem",
+        "basename": "Create.php",
+        "extension": "php",
+        "filename": "Create"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Base",
+        "basename": "GroupType.php",
+        "extension": "php",
+        "filename": "GroupType"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Base",
+        "basename": "UserType.php",
+        "extension": "php",
+        "filename": "UserType"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Base",
+        "basename": "Handle.php",
+        "extension": "php",
+        "filename": "Handle"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Base",
+        "basename": "User.php",
+        "extension": "php",
+        "filename": "User"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Base",
+        "basename": "Group.php",
+        "extension": "php",
+        "filename": "Group"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Setup",
+        "basename": "Input.php",
+        "extension": "php",
+        "filename": "Input"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Setup",
+        "basename": "ConfigLoader.php",
+        "extension": "php",
+        "filename": "ConfigLoader"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Setup",
+        "basename": "Logo.php",
+        "extension": "php",
+        "filename": "Logo"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Setup",
+        "basename": "Show.php",
+        "extension": "php",
+        "filename": "Show"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Setup",
+        "basename": "Output.php",
+        "extension": "php",
+        "filename": "Output"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Setup",
+        "basename": "Install.php",
+        "extension": "php",
+        "filename": "Install"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Setup",
+        "basename": "Read.php",
+        "extension": "php",
+        "filename": "Read"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System\/Setup",
+        "basename": "Handle.php",
+        "extension": "php",
+        "filename": "Handle"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/System",
+        "basename": "Root.php",
+        "extension": "php",
+        "filename": "Root"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Services\/Websocket\/Executive",
+        "basename": "stopServer.php",
+        "extension": "php",
+        "filename": "stopServer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Services\/Websocket\/Executive",
+        "basename": "disconnectServer.php",
+        "extension": "php",
+        "filename": "disconnectServer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Services\/Websocket\/Executive",
+        "basename": "startServer.php",
+        "extension": "php",
+        "filename": "startServer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Services\/Websocket\/Server",
+        "basename": "WebsocketServer_10000.php",
+        "extension": "php",
+        "filename": "WebsocketServer_10000"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Services\/Websocket\/Log",
+        "basename": "frameObject.json",
+        "extension": "json",
+        "filename": "frameObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Services\/Websocket\/Log",
+        "basename": "serverObject.json",
+        "extension": "json",
+        "filename": "serverObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Services\/Websocket\/Log",
+        "basename": "tableObject.json",
+        "extension": "json",
+        "filename": "tableObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Services\/Websocket",
+        "basename": "WebsocketServer.php",
+        "extension": "php",
+        "filename": "WebsocketServer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Services",
+        "basename": "Websocket.php",
+        "extension": "php",
+        "filename": "Websocket"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Services\/Templates",
+        "basename": "WebsocketServer_xxxx.php",
+        "extension": "php",
+        "filename": "WebsocketServer_xxxx"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Cache",
+        "basename": "socket.json",
+        "extension": "json",
+        "filename": "socket"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Cache",
+        "basename": "websocket.json",
+        "extension": "json",
+        "filename": "websocket"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Cache",
+        "basename": "ip.json",
+        "extension": "json",
+        "filename": "ip"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Config",
+        "basename": "WebsocketConfig.json",
+        "extension": "json",
+        "filename": "WebsocketConfig"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Config\/System",
+        "basename": "WebsocketConfig.json",
+        "extension": "json",
+        "filename": "WebsocketConfig"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/Config\/User",
+        "basename": "WebsocketConfig.json",
+        "extension": "json",
+        "filename": "WebsocketConfig"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/System\/Handle",
+        "basename": "DataType.php",
+        "extension": "php",
+        "filename": "DataType"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/System\/Handle",
+        "basename": "ServerType.php",
+        "extension": "php",
+        "filename": "ServerType"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/System\/Handle",
+        "basename": "FileCreatorType.php",
+        "extension": "php",
+        "filename": "FileCreatorType"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/System\/Handle",
+        "basename": "CacheType.php",
+        "extension": "php",
+        "filename": "CacheType"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/System\/Handle",
+        "basename": "ConfigType.php",
+        "extension": "php",
+        "filename": "ConfigType"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/System\/Handle",
+        "basename": "UserConfig.php",
+        "extension": "php",
+        "filename": "UserConfig"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/System\/Handle",
+        "basename": "SystemConfig.php",
+        "extension": "php",
+        "filename": "SystemConfig"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/System\/Handle",
+        "basename": "FileLoaderType.php",
+        "extension": "php",
+        "filename": "FileLoaderType"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/System\/Execution",
+        "basename": "Registry.php",
+        "extension": "php",
+        "filename": "Registry"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/System\/Execution",
+        "basename": "Relation.php",
+        "extension": "php",
+        "filename": "Relation"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/System\/Execution",
+        "basename": "FileLoader.php",
+        "extension": "php",
+        "filename": "FileLoader"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer\/System",
+        "basename": "Executive.php",
+        "extension": "php",
+        "filename": "Executive"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer",
+        "basename": "buildWebsocket.php",
+        "extension": "php",
+        "filename": "buildWebsocket"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer",
+        "basename": "build.php",
+        "extension": "php",
+        "filename": "build"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/PartarumServer",
+        "basename": "ServerManager.php",
+        "extension": "php",
+        "filename": "ServerManager"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/ASCII",
+        "basename": "serverType.txt",
+        "extension": "txt",
+        "filename": "serverType"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumCLI\/ASCII",
+        "basename": "start.txt",
+        "extension": "txt",
+        "filename": "start"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Security",
+        "basename": "backup_uuid.php",
+        "extension": "php",
+        "filename": "backup_uuid"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Security",
+        "basename": "LicentiamObject.php",
+        "extension": "php",
+        "filename": "LicentiamObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Security",
+        "basename": "SafetyService.php",
+        "extension": "php",
+        "filename": "SafetyService"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Security",
+        "basename": "SessionWorker.php",
+        "extension": "php",
+        "filename": "SessionWorker"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Security\/Token",
+        "basename": "JWTHeader.php",
+        "extension": "php",
+        "filename": "JWTHeader"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Security\/Token",
+        "basename": "JWT.php",
+        "extension": "php",
+        "filename": "JWT"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Security\/Token",
+        "basename": "JWTPayload.php",
+        "extension": "php",
+        "filename": "JWTPayload"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Security\/Token",
+        "basename": "JWTSignature.php",
+        "extension": "php",
+        "filename": "JWTSignature"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Security\/Token",
+        "basename": "UUID.php",
+        "extension": "php",
+        "filename": "UUID"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Security\/Token",
+        "basename": "JWTObject.php",
+        "extension": "php",
+        "filename": "JWTObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLText.php",
+        "extension": "php",
+        "filename": "HTMLText"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLDocument.php",
+        "extension": "php",
+        "filename": "HTMLDocument"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLfooter.php",
+        "extension": "php",
+        "filename": "HTMLfooter"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLElement.php",
+        "extension": "php",
+        "filename": "HTMLElement"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "NodeObject.class.php",
+        "extension": "php",
+        "filename": "NodeObject.class"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLetcElementInfo.php",
+        "extension": "php",
+        "filename": "HTMLetcElementInfo"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLCollection.class.php",
+        "extension": "php",
+        "filename": "HTMLCollection.class"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "generator.php",
+        "extension": "php",
+        "filename": "generator"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "NodeCollection.class.php",
+        "extension": "php",
+        "filename": "NodeCollection.class"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLSeries.php",
+        "extension": "php",
+        "filename": "HTMLSeries"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLPlain.php",
+        "extension": "php",
+        "filename": "HTMLPlain"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "testNodeObject.php",
+        "extension": "php",
+        "filename": "testNodeObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLmain.php",
+        "extension": "php",
+        "filename": "HTMLmain"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLgetEtc_old.php",
+        "extension": "php",
+        "filename": "HTMLgetEtc_old"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLDom.php",
+        "extension": "php",
+        "filename": "HTMLDom"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLArticle.php",
+        "extension": "php",
+        "filename": "HTMLArticle"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLAttribute.php",
+        "extension": "php",
+        "filename": "HTMLAttribute"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "testGeneratorEtc.php",
+        "extension": "php",
+        "filename": "testGeneratorEtc"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLgetEtc.php",
+        "extension": "php",
+        "filename": "HTMLgetEtc"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLPage.php",
+        "extension": "php",
+        "filename": "HTMLPage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLFamily.class.php",
+        "extension": "php",
+        "filename": "HTMLFamily.class"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLScript.php",
+        "extension": "php",
+        "filename": "HTMLScript"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLService.php",
+        "extension": "php",
+        "filename": "HTMLService"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLObject.php",
+        "extension": "php",
+        "filename": "HTMLObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLTest.php",
+        "extension": "php",
+        "filename": "HTMLTest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLhead.php",
+        "extension": "php",
+        "filename": "HTMLhead"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Document",
+        "basename": "HTMLheader.php",
+        "extension": "php",
+        "filename": "HTMLheader"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP",
+        "basename": "ConfigFile.php",
+        "extension": "php",
+        "filename": "ConfigFile"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP",
+        "basename": "Office.php",
+        "extension": "php",
+        "filename": "Office"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Filesystem",
+        "basename": "Beipiel_selbstausfuehrendeFunktion.txt",
+        "extension": "txt",
+        "filename": "Beipiel_selbstausfuehrendeFunktion"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Filesystem",
+        "basename": "FilesystemGenerator.php",
+        "extension": "php",
+        "filename": "FilesystemGenerator"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Filesystem",
+        "basename": "DirectoryBridgeGenerator.php",
+        "extension": "php",
+        "filename": "DirectoryBridgeGenerator"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Filesystem",
+        "basename": "class_getFile.php",
+        "extension": "php",
+        "filename": "class_getFile"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Filesystem",
+        "basename": "Filesystem.php",
+        "extension": "php",
+        "filename": "Filesystem"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Filesystem",
+        "basename": "DirectoryGenerator.php",
+        "extension": "php",
+        "filename": "DirectoryGenerator"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "Task.php",
+        "extension": "php",
+        "filename": "Task"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "Catalog.php",
+        "extension": "php",
+        "filename": "Catalog"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "CatalogObject.php",
+        "extension": "php",
+        "filename": "CatalogObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "Team.php",
+        "extension": "php",
+        "filename": "Team"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "SectionObject.php",
+        "extension": "php",
+        "filename": "SectionObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "Area.php",
+        "extension": "php",
+        "filename": "Area"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "Factory.php",
+        "extension": "php",
+        "filename": "Factory"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "Section.php",
+        "extension": "php",
+        "filename": "Section"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "Worker.php",
+        "extension": "php",
+        "filename": "Worker"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "Storage.php",
+        "extension": "php",
+        "filename": "Storage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "Category.php",
+        "extension": "php",
+        "filename": "Category"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "Product.php",
+        "extension": "php",
+        "filename": "Product"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "CategoryObject.php",
+        "extension": "php",
+        "filename": "CategoryObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "Agent.php",
+        "extension": "php",
+        "filename": "Agent"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Design\/TraidChain",
+        "basename": "Store.php",
+        "extension": "php",
+        "filename": "Store"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP",
+        "basename": "WebApp.php",
+        "extension": "php",
+        "filename": "WebApp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP",
+        "basename": "partarum.php",
+        "extension": "php",
+        "filename": "partarum"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Cache",
+        "basename": "WorkerMap.php",
+        "extension": "php",
+        "filename": "WorkerMap"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Cache",
+        "basename": "SharedMemory.php",
+        "extension": "php",
+        "filename": "SharedMemory"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP",
+        "basename": "testJSClass.php",
+        "extension": "php",
+        "filename": "testJSClass"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Config",
+        "basename": "Routes.json",
+        "extension": "json",
+        "filename": "Routes"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Config",
+        "basename": "GlobalConfig.php",
+        "extension": "php",
+        "filename": "GlobalConfig"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP",
+        "basename": "getInfo.php",
+        "extension": "php",
+        "filename": "getInfo"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP",
+        "basename": "testHTMLPage.php",
+        "extension": "php",
+        "filename": "testHTMLPage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Service\/Binary",
+        "basename": "FlagWorker.php",
+        "extension": "php",
+        "filename": "FlagWorker"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Service\/Binary",
+        "basename": "FlagFactory.php",
+        "extension": "php",
+        "filename": "FlagFactory"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Service",
+        "basename": "Factory.php",
+        "extension": "php",
+        "filename": "Factory"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Service",
+        "basename": "Array.php",
+        "extension": "php",
+        "filename": "Array"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP",
+        "basename": "HeaderType.php",
+        "extension": "php",
+        "filename": "HeaderType"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP",
+        "basename": "HTTPHeaderObject.php",
+        "extension": "php",
+        "filename": "HTTPHeaderObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP",
+        "basename": "testCookie.php",
+        "extension": "php",
+        "filename": "testCookie"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Header",
+        "basename": "Request.php",
+        "extension": "php",
+        "filename": "Request"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Header",
+        "basename": "testFlag.php",
+        "extension": "php",
+        "filename": "testFlag"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Header",
+        "basename": "Cause.php",
+        "extension": "php",
+        "filename": "Cause"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Header",
+        "basename": "General.php",
+        "extension": "php",
+        "filename": "General"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Header\/Entity",
+        "basename": "ContentEncoding.php",
+        "extension": "php",
+        "filename": "ContentEncoding"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Header\/Entity",
+        "basename": "ContentDisposition.php",
+        "extension": "php",
+        "filename": "ContentDisposition"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Header\/Entity",
+        "basename": "ContentType.php",
+        "extension": "php",
+        "filename": "ContentType"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Header\/Entity",
+        "basename": "Allow.php",
+        "extension": "php",
+        "filename": "Allow"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Header",
+        "basename": "Response.php",
+        "extension": "php",
+        "filename": "Response"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Header",
+        "basename": "Entity.php",
+        "extension": "php",
+        "filename": "Entity"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Header",
+        "basename": "HeaderField.php",
+        "extension": "php",
+        "filename": "HeaderField"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP",
+        "basename": "APIRequest.php",
+        "extension": "php",
+        "filename": "APIRequest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP",
+        "basename": "CookieObject.php",
+        "extension": "php",
+        "filename": "CookieObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP",
+        "basename": "APIResponse.php",
+        "extension": "php",
+        "filename": "APIResponse"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Response",
+        "basename": "BodyObject.php",
+        "extension": "php",
+        "filename": "BodyObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Response",
+        "basename": "Channel.php",
+        "extension": "php",
+        "filename": "Channel"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP",
+        "basename": "API.php",
+        "extension": "php",
+        "filename": "API"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Request",
+        "basename": "Router.php",
+        "extension": "php",
+        "filename": "Router"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Request",
+        "basename": "REST.php",
+        "extension": "php",
+        "filename": "REST"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Request\/Material",
+        "basename": "Headers.php",
+        "extension": "php",
+        "filename": "Headers"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Request\/Material",
+        "basename": "Extension.php",
+        "extension": "php",
+        "filename": "Extension"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Request",
+        "basename": "Dispatcher.php",
+        "extension": "php",
+        "filename": "Dispatcher"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Request\/Routes",
+        "basename": "ManifestPartarum.php",
+        "extension": "php",
+        "filename": "ManifestPartarum"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Request\/Routes",
+        "basename": "Manifest.php",
+        "extension": "php",
+        "filename": "Manifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Request\/Routes",
+        "basename": "ManifestRoots.php",
+        "extension": "php",
+        "filename": "ManifestRoots"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Request\/Routes",
+        "basename": "ManifestWorkspace.php",
+        "extension": "php",
+        "filename": "ManifestWorkspace"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Request\/Routes",
+        "basename": "ManifestPlugin.php",
+        "extension": "php",
+        "filename": "ManifestPlugin"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Request\/Routes",
+        "basename": "ManifestProxy.php",
+        "extension": "php",
+        "filename": "ManifestProxy"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP\/Request",
+        "basename": "Switcher.php",
+        "extension": "php",
+        "filename": "Switcher"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP",
+        "basename": "HeaderObject.php",
+        "extension": "php",
+        "filename": "HeaderObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP",
+        "basename": "Cookie.php",
+        "extension": "php",
+        "filename": "Cookie"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP",
+        "basename": "Header.php",
+        "extension": "php",
+        "filename": "Header"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/HTTP",
+        "basename": "Data.php",
+        "extension": "php",
+        "filename": "Data"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Traits\/Security",
+        "basename": "FeatSessionWorker.php",
+        "extension": "php",
+        "filename": "FeatSessionWorker"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Traits\/Document",
+        "basename": "FeatHTMLPage.php",
+        "extension": "php",
+        "filename": "FeatHTMLPage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Traits\/Document",
+        "basename": "FeatHTMLgetEtc.php",
+        "extension": "php",
+        "filename": "FeatHTMLgetEtc"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Traits\/Document",
+        "basename": "FeatHTMLAttributes.php",
+        "extension": "php",
+        "filename": "FeatHTMLAttributes"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Traits\/Filesystem",
+        "basename": "FeatFilesystem.php",
+        "extension": "php",
+        "filename": "FeatFilesystem"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Traits",
+        "basename": "FeatTemplateHelper.php",
+        "extension": "php",
+        "filename": "FeatTemplateHelper"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Traits\/Server",
+        "basename": "FeatControlSystem.trait.php",
+        "extension": "php",
+        "filename": "FeatControlSystem.trait"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Traits",
+        "basename": "constants.php",
+        "extension": "php",
+        "filename": "constants"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Traits\/Database",
+        "basename": "FeatDatabase.php",
+        "extension": "php",
+        "filename": "FeatDatabase"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/System\/Memory",
+        "basename": "SharedCatalog.php",
+        "extension": "php",
+        "filename": "SharedCatalog"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/System\/Memory",
+        "basename": "SharedFileCache.php",
+        "extension": "php",
+        "filename": "SharedFileCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/System\/Memory",
+        "basename": "SharedKeyCache.php",
+        "extension": "php",
+        "filename": "SharedKeyCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/System\/Memory",
+        "basename": "SharedFactory.php",
+        "extension": "php",
+        "filename": "SharedFactory"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/System\/Memory",
+        "basename": "SharedLastKeyCache.php",
+        "extension": "php",
+        "filename": "SharedLastKeyCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/System\/Memory",
+        "basename": "SharedSemaphore.php",
+        "extension": "php",
+        "filename": "SharedSemaphore"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/System\/Memory",
+        "basename": "SharedCacheInterface.php",
+        "extension": "php",
+        "filename": "SharedCacheInterface"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/System\/Memory",
+        "basename": "SharedHelper.php",
+        "extension": "php",
+        "filename": "SharedHelper"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/System\/Memory",
+        "basename": "SharedManager.php",
+        "extension": "php",
+        "filename": "SharedManager"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/System",
+        "basename": "Root.php",
+        "extension": "php",
+        "filename": "Root"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/System",
+        "basename": "AutoloadObject.php",
+        "extension": "php",
+        "filename": "AutoloadObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/System",
+        "basename": "Autoloader.php",
+        "extension": "php",
+        "filename": "Autoloader"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Database",
+        "basename": "DatabasePDO.php",
+        "extension": "php",
+        "filename": "DatabasePDO"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Database",
+        "basename": "CacheConnect.php",
+        "extension": "php",
+        "filename": "CacheConnect"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Database",
+        "basename": "DatabaseMysqli.php",
+        "extension": "php",
+        "filename": "DatabaseMysqli"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Database",
+        "basename": "DatabaseData.php",
+        "extension": "php",
+        "filename": "DatabaseData"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Database",
+        "basename": "DatabaseDataObject.php",
+        "extension": "php",
+        "filename": "DatabaseDataObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Workspace",
+        "basename": "Htaccess.php",
+        "extension": "php",
+        "filename": "Htaccess"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Test",
+        "basename": "APIStore.php",
+        "extension": "php",
+        "filename": "APIStore"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Test",
+        "basename": "APICatalog.php",
+        "extension": "php",
+        "filename": "APICatalog"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Test",
+        "basename": "APIRequest.php",
+        "extension": "php",
+        "filename": "APIRequest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Test",
+        "basename": "APIResponse.php",
+        "extension": "php",
+        "filename": "APIResponse"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Test",
+        "basename": "API.php",
+        "extension": "php",
+        "filename": "API"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumPHP\/Test",
+        "basename": "APIFactory.php",
+        "extension": "php",
+        "filename": "APIFactory"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Workshop",
+        "basename": "Log.js",
+        "extension": "js",
+        "filename": "Log"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Workshop",
+        "basename": "Helper.js",
+        "extension": "js",
+        "filename": "Helper"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Workshop",
+        "basename": "Loader.js",
+        "extension": "js",
+        "filename": "Loader"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Workshop",
+        "basename": "Workbox.js",
+        "extension": "js",
+        "filename": "Workbox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Workshop",
+        "basename": "ViewKit.js",
+        "extension": "js",
+        "filename": "ViewKit"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Workshop",
+        "basename": "Workshop.js",
+        "extension": "js",
+        "filename": "Workshop"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Workbox\/System\/Cookies",
+        "basename": "setCookies.js",
+        "extension": "js",
+        "filename": "setCookies"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Design\/MediaBox",
+        "basename": "MediaBoxPicture.js",
+        "extension": "js",
+        "filename": "MediaBoxPicture"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Design",
+        "basename": "Design.js",
+        "extension": "js",
+        "filename": "Design"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Design\/Barrier\/Picture",
+        "basename": "PictureMenu.js",
+        "extension": "js",
+        "filename": "PictureMenu"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Design",
+        "basename": "MediaBox.js",
+        "extension": "js",
+        "filename": "MediaBox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Worker\/DrawWorker",
+        "basename": "AnalyzeWorker.js",
+        "extension": "js",
+        "filename": "AnalyzeWorker"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Worker\/HTMLWorker",
+        "basename": "LayoutAnalyzeWorker.js",
+        "extension": "js",
+        "filename": "LayoutAnalyzeWorker"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "SimpleCache.js",
+        "extension": "js",
+        "filename": "SimpleCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "WorkingCache.js",
+        "extension": "js",
+        "filename": "WorkingCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "PreloadCache.js",
+        "extension": "js",
+        "filename": "PreloadCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "DOMCache.js",
+        "extension": "js",
+        "filename": "DOMCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "CounterCache.js",
+        "extension": "js",
+        "filename": "CounterCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "ImportCache.js",
+        "extension": "js",
+        "filename": "ImportCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "EventCache.js",
+        "extension": "js",
+        "filename": "EventCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "PlotCache.js",
+        "extension": "js",
+        "filename": "PlotCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "IndexCache.js",
+        "extension": "js",
+        "filename": "IndexCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "TopicCache.js",
+        "extension": "js",
+        "filename": "TopicCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "CacheBase.js",
+        "extension": "js",
+        "filename": "CacheBase"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "PartarumCache.js",
+        "extension": "js",
+        "filename": "PartarumCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "Cache.js",
+        "extension": "js",
+        "filename": "Cache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache",
+        "basename": "HTMLCache.js",
+        "extension": "js",
+        "filename": "HTMLCache"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Cache\/CacheStorage",
+        "basename": "CacheStorage.js",
+        "extension": "js",
+        "filename": "CacheStorage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLPartarumHost.js",
+        "extension": "js",
+        "filename": "HTMLPartarumHost"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLLayoutElementAnalyzer.js",
+        "extension": "js",
+        "filename": "HTMLLayoutElementAnalyzer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLRegistrationBox.js",
+        "extension": "js",
+        "filename": "HTMLRegistrationBox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCardBox",
+        "basename": "HTMLCardDrawBox.js",
+        "extension": "js",
+        "filename": "HTMLCardDrawBox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCardBox",
+        "basename": "HTMLCardTopicBody.js",
+        "extension": "js",
+        "filename": "HTMLCardTopicBody"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCardBox",
+        "basename": "HTMLCardBoxObject.js",
+        "extension": "js",
+        "filename": "HTMLCardBoxObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCardBox",
+        "basename": "HTMLCardBoxHeader.js",
+        "extension": "js",
+        "filename": "HTMLCardBoxHeader"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCardBox",
+        "basename": "HTMLCardTopicBox.js",
+        "extension": "js",
+        "filename": "HTMLCardTopicBox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCardBox",
+        "basename": "HTMLCardBoxBody.js",
+        "extension": "js",
+        "filename": "HTMLCardBoxBody"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCardBox",
+        "basename": "HTMLCardBoxMenu.js",
+        "extension": "js",
+        "filename": "HTMLCardBoxMenu"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCardBox",
+        "basename": "HTMLCardThemeBox.js",
+        "extension": "js",
+        "filename": "HTMLCardThemeBox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLBottomBar.js",
+        "extension": "js",
+        "filename": "HTMLBottomBar"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLSnippets.js",
+        "extension": "js",
+        "filename": "HTMLSnippets"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": ".HTMLCardBox.js.swpc",
+        "extension": "swpc",
+        "filename": ".HTMLCardBox.js"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLNavBar.js",
+        "extension": "js",
+        "filename": "HTMLNavBar"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLCardBox.js",
+        "extension": "js",
+        "filename": "HTMLCardBox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLContent.js",
+        "extension": "js",
+        "filename": "HTMLContent"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCookie",
+        "basename": "HTMLCookieBanner.js",
+        "extension": "js",
+        "filename": "HTMLCookieBanner"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCookie",
+        "basename": "HTMLCookieBody.js",
+        "extension": "js",
+        "filename": "HTMLCookieBody"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCookie",
+        "basename": "HTMLCookieMain.js",
+        "extension": "js",
+        "filename": "HTMLCookieMain"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCookie",
+        "basename": "HTMLCookieFooter.js",
+        "extension": "js",
+        "filename": "HTMLCookieFooter"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCookie",
+        "basename": "HTMLCookieHeader.js",
+        "extension": "js",
+        "filename": "HTMLCookieHeader"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumCookie",
+        "basename": "test.js",
+        "extension": "js",
+        "filename": "test"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLElement.js",
+        "extension": "js",
+        "filename": "HTMLElement"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumNavBar",
+        "basename": "HTMLNavBarBody.js",
+        "extension": "js",
+        "filename": "HTMLNavBarBody"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumNavBar",
+        "basename": "HTMLMenuHamburger.js",
+        "extension": "js",
+        "filename": "HTMLMenuHamburger"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTML.js",
+        "extension": "js",
+        "filename": "HTML"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML\/PartarumBottomBar",
+        "basename": "HTMLBottomBarBody.js",
+        "extension": "js",
+        "filename": "HTMLBottomBarBody"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLSeries.js",
+        "extension": "js",
+        "filename": "HTMLSeries"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLCookie.js",
+        "extension": "js",
+        "filename": "HTMLCookie"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLLayout.js",
+        "extension": "js",
+        "filename": "HTMLLayout"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLPreload.js",
+        "extension": "js",
+        "filename": "HTMLPreload"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLPartarumElement.js",
+        "extension": "js",
+        "filename": "HTMLPartarumElement"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/HTML",
+        "basename": "HTMLTextNode.js",
+        "extension": "js",
+        "filename": "HTMLTextNode"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Helper",
+        "basename": "Counter.js",
+        "extension": "js",
+        "filename": "Counter"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Helper",
+        "basename": "Hex.js",
+        "extension": "js",
+        "filename": "Hex"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Validation",
+        "basename": "ValidObject.js",
+        "extension": "js",
+        "filename": "ValidObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Validation",
+        "basename": "Validation.js",
+        "extension": "js",
+        "filename": "Validation"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS",
+        "basename": "Office.js",
+        "extension": "js",
+        "filename": "Office"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/System",
+        "basename": "Cookie.js",
+        "extension": "js",
+        "filename": "Cookie"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/System",
+        "basename": "ClientSetting.js",
+        "extension": "js",
+        "filename": "ClientSetting"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/System",
+        "basename": "System.js",
+        "extension": "js",
+        "filename": "System"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Draw",
+        "basename": "Plot.js",
+        "extension": "js",
+        "filename": "Plot"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Draw",
+        "basename": "Plotter.js",
+        "extension": "js",
+        "filename": "Plotter"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Draw",
+        "basename": "DrawElementAnalyzer.js",
+        "extension": "js",
+        "filename": "DrawElementAnalyzer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Draw",
+        "basename": "DrawLine.js",
+        "extension": "js",
+        "filename": "DrawLine"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Draw",
+        "basename": "Shapes.js",
+        "extension": "js",
+        "filename": "Shapes"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Draw",
+        "basename": "Draw.js",
+        "extension": "js",
+        "filename": "Draw"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Events",
+        "basename": "MediaBoxEvent.js",
+        "extension": "js",
+        "filename": "MediaBoxEvent"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Events",
+        "basename": "Events.js",
+        "extension": "js",
+        "filename": "Events"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/Import",
+        "basename": "Import.js",
+        "extension": "js",
+        "filename": "Import"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/classes",
+        "basename": "ClientSetting.js",
+        "extension": "js",
+        "filename": "ClientSetting"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS\/classes",
+        "basename": "ConfigRouter.js",
+        "extension": "js",
+        "filename": "ConfigRouter"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumJS",
+        "basename": "Partarum.js",
+        "extension": "js",
+        "filename": "Partarum"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumIntern\/Security",
+        "basename": "LoremLicentiamObject.php",
+        "extension": "php",
+        "filename": "LoremLicentiamObject"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumIntern\/Security",
+        "basename": "LoremLicentiam.php",
+        "extension": "php",
+        "filename": "LoremLicentiam"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/config",
+        "basename": "surface-manifest.json",
+        "extension": "json",
+        "filename": "surface-manifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/config",
+        "basename": "fetch-manifest.json",
+        "extension": "json",
+        "filename": "fetch-manifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/config",
+        "basename": "routes-manifest.json",
+        "extension": "json",
+        "filename": "routes-manifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/config",
+        "basename": "myapp,jsonld",
+        "filename": "myapp,jsonld"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/config",
+        "basename": "text-manifest.json",
+        "extension": "json",
+        "filename": "text-manifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/config",
+        "basename": "sequenceOfEvents-manifest.json",
+        "extension": "json",
+        "filename": "sequenceOfEvents-manifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/config",
+        "basename": "workspace-manifest.json",
+        "extension": "json",
+        "filename": "workspace-manifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/config",
+        "basename": "error-manifest.json",
+        "extension": "json",
+        "filename": "error-manifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/config",
+        "basename": "assets-manifest.json",
+        "extension": "json",
+        "filename": "assets-manifest"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace",
+        "basename": "workspace.php",
+        "extension": "php",
+        "filename": "workspace"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/Cordes\/Process\/Registration",
+        "basename": "SendEmail.php",
+        "extension": "php",
+        "filename": "SendEmail"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/Cordes\/Process\/Registration",
+        "basename": "User.php",
+        "extension": "php",
+        "filename": "User"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/Cordes\/Process\/Contact",
+        "basename": "SendEmail.php",
+        "extension": "php",
+        "filename": "SendEmail"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/Cordes\/Config",
+        "basename": "config.php",
+        "extension": "php",
+        "filename": "config"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/Cordes\/Email",
+        "basename": "Access.php",
+        "extension": "php",
+        "filename": "Access"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/Cordes\/Email",
+        "basename": "Config.php",
+        "extension": "php",
+        "filename": "Config"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/Cordes\/Email",
+        "basename": "Email.php",
+        "extension": "php",
+        "filename": "Email"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/Cordes\/Database\/Registration",
+        "basename": "Worker.php",
+        "extension": "php",
+        "filename": "Worker"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/Cordes\/Database\/Registration",
+        "basename": "Columns.php",
+        "extension": "php",
+        "filename": "Columns"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/Cordes\/Forms",
+        "basename": "Registration.php",
+        "extension": "php",
+        "filename": "Registration"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/test",
+        "basename": "testEmail.php",
+        "extension": "php",
+        "filename": "testEmail"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/PHPMailer",
+        "basename": "PHPMailer.php",
+        "extension": "php",
+        "filename": "PHPMailer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/PHPMailer",
+        "basename": "Exception.php",
+        "extension": "php",
+        "filename": "Exception"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/PHPMailer",
+        "basename": "SMTP.php",
+        "extension": "php",
+        "filename": "SMTP"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/PHPMailer",
+        "basename": "OAuth.php",
+        "extension": "php",
+        "filename": "OAuth"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app\/src\/php\/PHPMailer",
+        "basename": "POP3.php",
+        "extension": "php",
+        "filename": "POP3"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app",
+        "basename": "workspacePage.php",
+        "extension": "php",
+        "filename": "workspacePage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app",
+        "basename": "authPage.php",
+        "extension": "php",
+        "filename": "authPage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/app",
+        "basename": "error_404.php",
+        "extension": "php",
+        "filename": "error_404"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/config",
+        "basename": "config.js",
+        "extension": "js",
+        "filename": "config"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/workspacePage\/main",
+        "basename": "main.js",
+        "extension": "js",
+        "filename": "main"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/workspacePage\/main\/contact",
+        "basename": "contact.js",
+        "extension": "js",
+        "filename": "contact"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/workspacePage\/main\/contact",
+        "basename": "setTrueResponse.js",
+        "extension": "js",
+        "filename": "setTrueResponse"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/workspacePage\/main\/pricing",
+        "basename": "productBox.js",
+        "extension": "js",
+        "filename": "productBox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/workspacePage\/main\/pricing",
+        "basename": "noBusinessBox.js",
+        "extension": "js",
+        "filename": "noBusinessBox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/workspacePage\/main\/pricing",
+        "basename": "productCards.js",
+        "extension": "js",
+        "filename": "productCards"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/workspacePage\/main\/features",
+        "basename": "features.js",
+        "extension": "js",
+        "filename": "features"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/workspacePage\/aside",
+        "basename": "aside.js",
+        "extension": "js",
+        "filename": "aside"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/workspacePage\/footer",
+        "basename": "footer.js",
+        "extension": "js",
+        "filename": "footer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/workspacePage\/footer",
+        "basename": "footerBoxLeft.js",
+        "extension": "js",
+        "filename": "footerBoxLeft"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/workspacePage\/footer",
+        "basename": "footerBoxRight.js",
+        "extension": "js",
+        "filename": "footerBoxRight"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/workspacePage\/header",
+        "basename": "header.js",
+        "extension": "js",
+        "filename": "header"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/partarumPage\/main\/sidebar",
+        "basename": "sidebar.js",
+        "extension": "js",
+        "filename": "sidebar"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/partarumPage\/main",
+        "basename": "important.js",
+        "extension": "js",
+        "filename": "important"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/partarumPage\/main",
+        "basename": "main.js",
+        "extension": "js",
+        "filename": "main"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/partarumPage\/main",
+        "basename": "folderStructure.js",
+        "extension": "js",
+        "filename": "folderStructure"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/partarumPage\/header",
+        "basename": "header.js",
+        "extension": "js",
+        "filename": "header"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/TemplatesAndSnippetsPage\/main\/sidebar",
+        "basename": "sidebar.js",
+        "extension": "js",
+        "filename": "sidebar"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/TemplatesAndSnippetsPage\/main",
+        "basename": "important.js",
+        "extension": "js",
+        "filename": "important"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/TemplatesAndSnippetsPage\/main",
+        "basename": "main.js",
+        "extension": "js",
+        "filename": "main"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/TemplatesAndSnippetsPage\/main",
+        "basename": "folderStructure.js",
+        "extension": "js",
+        "filename": "folderStructure"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/pages\/TemplatesAndSnippetsPage\/header",
+        "basename": "header.js",
+        "extension": "js",
+        "filename": "header"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/shoppingPage\/header",
+        "basename": "primary.js",
+        "extension": "js",
+        "filename": "primary"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/landingPage\/header",
+        "basename": "secondary.js",
+        "extension": "js",
+        "filename": "secondary"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/landingPage\/header",
+        "basename": "primary.js",
+        "extension": "js",
+        "filename": "primary"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/condition\/imprint",
+        "basename": "conditionNav.js",
+        "extension": "js",
+        "filename": "conditionNav"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/condition\/dataProtection",
+        "basename": "dataProtectionNav.js",
+        "extension": "js",
+        "filename": "dataProtectionNav"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/features",
+        "basename": "servicePower.js",
+        "extension": "js",
+        "filename": "servicePower"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/features",
+        "basename": "networkPower.js",
+        "extension": "js",
+        "filename": "networkPower"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/features",
+        "basename": "robotPower.js",
+        "extension": "js",
+        "filename": "robotPower"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/productCards\/webhosting",
+        "basename": "webFree.js",
+        "extension": "js",
+        "filename": "webFree"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/productCards\/webhosting",
+        "basename": "webEnterprise.js",
+        "extension": "js",
+        "filename": "webEnterprise"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/productCards\/webhosting",
+        "basename": "webBusiness.js",
+        "extension": "js",
+        "filename": "webBusiness"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/productCards\/vserver",
+        "basename": "vserver_s.js",
+        "extension": "js",
+        "filename": "vserver_s"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/productCards\/vserver",
+        "basename": "vserver_m.js",
+        "extension": "js",
+        "filename": "vserver_m"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/productCards\/vserver",
+        "basename": "vserver_l.js",
+        "extension": "js",
+        "filename": "vserver_l"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templateValues\/productCards",
+        "basename": "products.js",
+        "extension": "js",
+        "filename": "products"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/fetch\/partarumPage\/construction\/js",
+        "basename": "implementationTheme.js",
+        "extension": "js",
+        "filename": "implementationTheme"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/fetch\/partarumPage\/construction\/js",
+        "basename": "implementationSite.js",
+        "extension": "js",
+        "filename": "implementationSite"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/fetch\/partarumPage\/construction\/html",
+        "basename": "firstStep.html",
+        "extension": "html",
+        "filename": "firstStep"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/imprint",
+        "basename": "liability.js",
+        "extension": "js",
+        "filename": "liability"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/imprint",
+        "basename": "base.js",
+        "extension": "js",
+        "filename": "base"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/imprint",
+        "basename": "copyright.js",
+        "extension": "js",
+        "filename": "copyright"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/dataAcquisition\/registration",
+        "basename": "registration.js",
+        "extension": "js",
+        "filename": "registration"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/dataAcquisition\/cookies",
+        "basename": "cookies_2.txt",
+        "extension": "txt",
+        "filename": "cookies_2"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/dataAcquisition\/cookies",
+        "basename": "cookies_6.txt",
+        "extension": "txt",
+        "filename": "cookies_6"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/dataAcquisition\/cookies",
+        "basename": "cookies.js",
+        "extension": "js",
+        "filename": "cookies"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/dataAcquisition\/cookies",
+        "basename": "cookies_3.txt",
+        "extension": "txt",
+        "filename": "cookies_3"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/dataAcquisition\/cookies",
+        "basename": "cookies_1.txt",
+        "extension": "txt",
+        "filename": "cookies_1"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/dataAcquisition\/cookies",
+        "basename": "cookies_4.txt",
+        "extension": "txt",
+        "filename": "cookies_4"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/dataAcquisition\/cookies",
+        "basename": "cookies_5.txt",
+        "extension": "txt",
+        "filename": "cookies_5"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/dataAcquisition\/serverLogFiles",
+        "basename": "serverLogFiles.js",
+        "extension": "js",
+        "filename": "serverLogFiles"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/dataAcquisition\/contactForm",
+        "basename": "contactForm.js",
+        "extension": "js",
+        "filename": "contactForm"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/dataAcquisition\/eContact",
+        "basename": "eContact.js",
+        "extension": "js",
+        "filename": "eContact"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/generalAndMandatoryInformation",
+        "basename": "generalAndMandatoryInformation.js",
+        "extension": "js",
+        "filename": "generalAndMandatoryInformation"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/overview",
+        "basename": "overview.js",
+        "extension": "js",
+        "filename": "overview"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/ownServices",
+        "basename": "ownServices.js",
+        "extension": "js",
+        "filename": "ownServices"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/newsletterAndPostal",
+        "basename": "newsletterAndPostal.js",
+        "extension": "js",
+        "filename": "newsletterAndPostal"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/content\/conditionPage\/dataProtection\/eCommerceAndPaymentProviders",
+        "basename": "eCommerceAndPaymentProviders.js",
+        "extension": "js",
+        "filename": "eCommerceAndPaymentProviders"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templates\/condition",
+        "basename": "navigation.js",
+        "extension": "js",
+        "filename": "navigation"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templates",
+        "basename": "orderStatus.js",
+        "extension": "js",
+        "filename": "orderStatus"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/templates",
+        "basename": "featureBox.js",
+        "extension": "js",
+        "filename": "featureBox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/global\/footer",
+        "basename": "footer.js",
+        "extension": "js",
+        "filename": "footer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface\/global\/header",
+        "basename": "header.js",
+        "extension": "js",
+        "filename": "header"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/surface",
+        "basename": "surface-import.js",
+        "extension": "js",
+        "filename": "surface-import"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/js",
+        "basename": "headroom.min.js",
+        "extension": "js",
+        "filename": "headroom.min"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/js\/currentVersion",
+        "basename": "headroom.min.js",
+        "extension": "js",
+        "filename": "headroom.min"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/js\/Workspace",
+        "basename": "partarumPage.js",
+        "extension": "js",
+        "filename": "partarumPage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/js\/Workspace\/Worker",
+        "basename": "testWorker.js",
+        "extension": "js",
+        "filename": "testWorker"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/js\/Workspace",
+        "basename": "plainPHPPage.js",
+        "extension": "js",
+        "filename": "plainPHPPage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/js\/Workspace",
+        "basename": "templatesAndSnippetsPage.js",
+        "extension": "js",
+        "filename": "templatesAndSnippetsPage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/js\/Workspace",
+        "basename": "workspacePage.js",
+        "extension": "js",
+        "filename": "workspacePage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/css",
+        "basename": "workspace.css",
+        "extension": "css",
+        "filename": "workspace"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/css",
+        "basename": "plainPHPPage.css",
+        "extension": "css",
+        "filename": "plainPHPPage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/css",
+        "basename": "partarumPage.css",
+        "extension": "css",
+        "filename": "partarumPage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/css",
+        "basename": "plainPHP.css",
+        "extension": "css",
+        "filename": "plainPHP"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media",
+        "basename": "plainPHP.svg",
+        "extension": "svg",
+        "filename": "plainPHP"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media",
+        "basename": "plainphp_new.svg",
+        "extension": "svg",
+        "filename": "plainphp_new"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media",
+        "basename": "plainPHP.png",
+        "extension": "png",
+        "filename": "plainPHP"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media",
+        "basename": "purple_unsplash.jpg",
+        "extension": "jpg",
+        "filename": "purple_unsplash"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media",
+        "basename": "Zeichnung.svg",
+        "extension": "svg",
+        "filename": "Zeichnung"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp",
+        "basename": "Readme.txt",
+        "extension": "txt",
+        "filename": "Readme"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp",
+        "basename": "Readme-mux.txt",
+        "extension": "txt",
+        "filename": "Readme-mux"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/lib",
+        "basename": "libwebpmux.lib",
+        "extension": "lib",
+        "filename": "libwebpmux"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/lib",
+        "basename": "libwebp.lib",
+        "extension": "lib",
+        "filename": "libwebp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/lib",
+        "basename": "libwebpdemux.lib",
+        "extension": "lib",
+        "filename": "libwebpdemux"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/include\/webp",
+        "basename": "demux.h",
+        "extension": "h",
+        "filename": "demux"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/include\/webp",
+        "basename": "decode.h",
+        "extension": "h",
+        "filename": "decode"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/include\/webp",
+        "basename": "mux_types.h",
+        "extension": "h",
+        "filename": "mux_types"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/include\/webp",
+        "basename": "mux.h",
+        "extension": "h",
+        "filename": "mux"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/include\/webp",
+        "basename": "encode.h",
+        "extension": "h",
+        "filename": "encode"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/include\/webp",
+        "basename": "types.h",
+        "extension": "h",
+        "filename": "types"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp",
+        "basename": "test.webp",
+        "extension": "webp",
+        "filename": "test"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "cwebp.exe",
+        "extension": "exe",
+        "filename": "cwebp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "webpmux.exe",
+        "extension": "exe",
+        "filename": "webpmux"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "vwebp.exe",
+        "extension": "exe",
+        "filename": "vwebp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "webp_quality.exe",
+        "extension": "exe",
+        "filename": "webp_quality"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "gif2webp.exe",
+        "extension": "exe",
+        "filename": "gif2webp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "anim_diff.exe",
+        "extension": "exe",
+        "filename": "anim_diff"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "dwebp.exe",
+        "extension": "exe",
+        "filename": "dwebp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "img2webp.exe",
+        "extension": "exe",
+        "filename": "img2webp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "get_disto.exe",
+        "extension": "exe",
+        "filename": "get_disto"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "anim_dump.exe",
+        "extension": "exe",
+        "filename": "anim_dump"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "freeglut.dll",
+        "extension": "dll",
+        "filename": "freeglut"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "webpinfo.exe",
+        "extension": "exe",
+        "filename": "webpinfo"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/webp",
+        "basename": "test_ref.ppm",
+        "extension": "ppm",
+        "filename": "test_ref"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/logos",
+        "basename": "plainPHP_new.png",
+        "extension": "png",
+        "filename": "plainPHP_new"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/logos",
+        "basename": "plainPHP_screenshot.png",
+        "extension": "png",
+        "filename": "plainPHP_screenshot"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/logos",
+        "basename": "plainPHP_500px.webp",
+        "extension": "webp",
+        "filename": "plainPHP_500px"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/logos",
+        "basename": "plainPHP_200.png",
+        "extension": "png",
+        "filename": "plainPHP_200"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/logos",
+        "basename": "plainPHP.png",
+        "extension": "png",
+        "filename": "plainPHP"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/logos",
+        "basename": "plainPHP_200px.webp",
+        "extension": "webp",
+        "filename": "plainPHP_200px"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/logos",
+        "basename": "purple_unsplash.jpg",
+        "extension": "jpg",
+        "filename": "purple_unsplash"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/logos",
+        "basename": "plainPHP_white.png",
+        "extension": "png",
+        "filename": "plainPHP_white"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/logos",
+        "basename": "plainPHP_200_100px.webp",
+        "extension": "webp",
+        "filename": "plainPHP_200_100px"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/logos",
+        "basename": "plainPHP_rose.png",
+        "extension": "png",
+        "filename": "plainPHP_rose"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/icons",
+        "basename": "apple-touch-icon.png",
+        "extension": "png",
+        "filename": "apple-touch-icon"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/img\/icons",
+        "basename": "favicon.ico",
+        "extension": "ico",
+        "filename": "favicon"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/pdf",
+        "basename": "Impressum.pdf",
+        "extension": "pdf",
+        "filename": "Impressum"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/Partarum\/PartarumWorkspace\/public\/assets\/media\/pdf",
+        "basename": "Datenschutzerkl\u00e4rung.pdf",
+        "extension": "pdf",
+        "filename": "Datenschutzerkl\u00e4rung"
+    }
+]
