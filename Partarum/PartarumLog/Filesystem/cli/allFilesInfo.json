@@ -1,0 +1,32 @@
+[
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/cli\/PartarumServer\/etc",
+        "basename": "PartarumServer.json",
+        "extension": "json",
+        "filename": "PartarumServer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/cli\/PartarumServer\/etc",
+        "basename": "WebsocketConfig.json",
+        "extension": "json",
+        "filename": "WebsocketConfig"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/cli\/PartarumServer",
+        "basename": "testCLI.php",
+        "extension": "php",
+        "filename": "testCLI"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/cli\/PartarumServer",
+        "basename": "createServer.php",
+        "extension": "php",
+        "filename": "createServer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/cli\/PartarumServer",
+        "basename": "createSockets.php",
+        "extension": "php",
+        "filename": "createSockets"
+    }
+]

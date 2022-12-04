@@ -1,0 +1,8 @@
+<cookie_1>
+Unsere Internetseiten verwenden sogenannte „Cookies“.
+Cookies sind kleine Textdateien und richten auf Ihrem Endgerät keinen Schaden an.
+Sie werden entweder vorübergehend für die Dauer einer Sitzung (Session-Cookies) oder
+dauerhaft (permanente Cookies) auf Ihrem Endgerät gespeichert.
+Session-Cookies werden nach Ende Ihres Besuchs automatisch gelöscht.
+Permanente Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese selbst löschen oder
+eine automatische Löschung durch Ihren Webbrowser erfolgt.

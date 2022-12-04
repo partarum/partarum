@@ -1,0 +1,154 @@
+@import url("/Partarum/PartarumCSS/Design/singleBoxCenter_medium.css");
+
+partarum-card-box-body, #partarumCardBoxBody {
+    /*
+    width: 100%;
+     */
+}
+
+
+
+partarum-card-box-body partarum-card-box-menu{
+
+    margin: 0;
+    width: auto;
+    padding: 0;
+}
+
+partarum-card-topic-body {
+
+    width: auto;
+    display: none;
+}
+
+partarum-card-topic-box {
+
+    width: max-content;
+    justify-content: center;
+    margin: auto;
+}
+
+partarum-card-theme-box {
+
+    min-width: 300px;
+    min-height: 30rem;
+    background: rgba(0, 75, 79, 0.2);
+    color: #F5F5F5;
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+partarum-card-theme-box>header {
+
+    background: rgba(0, 42, 47, 0.3);
+    margin-bottom: 0;
+    height: 7em;
+    padding: 1em 0;
+}
+
+partarum-card-theme-box>header>h3 {
+    font-family: cursive;
+    font-weight: 600;
+    color: #C3D9FA;
+    font-size: 2em;
+    line-height: 2em;
+    border-right-style: outset;
+    border-right-color: #C3D9FA;
+    border-right-width: 2px;
+    width: auto;
+}
+
+partarum-card-theme-box>section{
+
+    border-right-style: outset;
+    border-right-color: #C3D9FA;
+    border-right-width: 2px;
+    margin-top: 1em;
+}
+
+partarum-card-theme-box section {
+
+    padding: 0.5em;
+}
+
+partarum-card-theme-box>footer {
+
+    border-right-style: outset;
+    border-right-color: #C3D9FA;
+    border-right-width: 2px;
+    padding: 1em;
+}
+
+partarum-card-theme-box:last-child>header>h3, partarum-card-theme-box:last-child>section, partarum-card-theme-box:last-child>footer {
+
+    border: none;
+}
+
+#productGroupNav, #productGroupSubNav, partarum-card-box-menu {
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+}
+
+.product-category-button {
+    background: #005B5F;
+    color: #F5F5F5;
+    border: 1px outset #004B4F;
+    line-height: 2rem;
+    font-size: 1.1rem;
+    margin: 0 1rem;
+}
+
+.partarum-card-theme-price {
+
+}
+
+.partarum-card-theme-price p:first-child {
+
+    color: #E7E7E7;
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 0;
+}
+
+.partarum-card-theme-features {
+
+}
+
+.partarum-card-theme-feature-box {
+
+}
+
+.partarum-card-theme-features header {
+    line-height: 0;
+    font-size: 1.2em;
+    color: #C3D9FA;
+}
+
+.partarum-card-theme-feature-box section {
+    display: inline-flex;
+    flex-direction: row;
+    line-height: 0;
+    color: #C3D9FA;
+    align-items: center;
+}
+
+.partarum-card-theme-features section p {
+
+    margin: 0;
+    line-height: 2em;
+}
+
+@media only screen and (min-width: 300px) and (max-width: 599px) {
+
+    partarum-card-box-body, #partarumCardBoxBody {
+        padding: 0;
+        margin: 0;
+    }
+
+    partarum-card-box-body partarum-card-box-menu {
+        position: absolute;
+        margin: 0;
+        padding: 0;
+    }
+}

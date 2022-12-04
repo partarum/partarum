@@ -1,0 +1,24 @@
+{
+  "allowed": [
+    "API",
+    "app",
+    "Partarum/PartarumAPI",
+    "Partarum/PartarumCSS",
+    "Partarum/PartarumJS",
+    "Partarum/PartarumTemplates",
+    "Partarum/PartarumWorkspace",
+    "Partarum/public"
+  ],
+  "denied": [
+    "app/src",
+    "config",
+    "Partarum",
+    "Partarum/PartarumCLI",
+    "Partarum/Config",
+    "Partarum/PartarumIntern",
+    "Partarum/PartarumLorem",
+    "Partarum/PartarumPHP",
+    "Partarum/PartarumSecura",
+    "public"
+  ]
+}
