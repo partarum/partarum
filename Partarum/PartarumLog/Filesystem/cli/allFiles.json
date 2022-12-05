@@ -1,0 +1,7 @@
+[
+    "cli\/PartarumServer\/etc\/PartarumServer.json",
+    "cli\/PartarumServer\/etc\/WebsocketConfig.json",
+    "cli\/PartarumServer\/testCLI.php",
+    "cli\/PartarumServer\/createServer.php",
+    "cli\/PartarumServer\/createSockets.php"
+]

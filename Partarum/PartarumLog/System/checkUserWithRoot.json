@@ -1,0 +1,41 @@
+{
+    "root": {
+        "name": "root",
+        "passwd": "x",
+        "uid": 0,
+        "gid": 0,
+        "gecos": "root",
+        "dir": "\/root",
+        "shell": "\/bin\/bash"
+    },
+    "php": {
+        "file": {
+            "name": "bombisa",
+            "passwd": "x",
+            "uid": 1000,
+            "gid": 1000,
+            "gecos": ",,,",
+            "dir": "\/home\/bombisa",
+            "shell": "\/bin\/bash"
+        },
+        "currentUser": "bombisa",
+        "phpInfo": {
+            "name": "bombisa",
+            "passwd": "x",
+            "uid": 1000,
+            "gid": 1000,
+            "gecos": ",,,",
+            "dir": "\/home\/bombisa",
+            "shell": "\/bin\/bash"
+        }
+    },
+    "shell": {
+        "name": "root",
+        "passwd": "x",
+        "uid": 0,
+        "gid": 0,
+        "gecos": "root",
+        "dir": "\/root",
+        "shell": "\/bin\/bash"
+    }
+}
