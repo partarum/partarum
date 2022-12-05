@@ -1,0 +1,53 @@
+{
+    "name": "partarum/partarum",
+    "description": "Package of Partarum",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Partarum\\": "Partarum/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Bombis",
+            "email": "email@alexander-bombis.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "v6.6.5"
+    },
+    "scripts": {
+        "pre-install-cmd": [
+            "echo 'pre-install-cmd'"
+        ],
+        "post-install-cmd": [
+            "echo 'post-install-cmd'"
+        ],
+        "post-root-package-install": [
+            "echo 'post-root-package-install'"
+        ],
+        "post-create-project-cmd": [
+            "echo 'post-create-project-cmd'"
+        ],
+        "pre-operations-exec": [
+            "echo pre-operations-exec"
+        ],
+        "pre-update-cmd": [
+            "echo pre-update-cmd"
+        ],
+        "post-update-cmd": [
+            "echo post-update-cmd"
+        ],
+        "pre-autoload-dump": [
+            "echo pre-autoload-dump"
+        ],
+        "post-autoload-dump": [
+            "echo post-autoload-dump"
+        ],
+        "pre-package-install": [
+            "echo pre-package-install"
+        ]
+    }
+}

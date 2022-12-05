@@ -1,0 +1,116 @@
+/*
+ *   Copyright 2018- 2021 © Alexander Bombis. All rights reserved.
+ *            Developed by Alexander Bombis.
+ *            Email: email@alexander-bombis.de
+ */
+
+#workspaceHeader {
+    display: flex;
+    flex-direction: column;
+    border: 4px solid #380F38;
+    border-radius: 10px;
+    height: 3rem;
+    width: 25vw;
+    background: #220522;
+    box-shadow: none;
+    position: fixed;
+    margin-top: 2em;
+    margin-left: 6em;
+    z-index: 2;
+}
+
+#workspaceHeader button, #workspaceAside button {
+    background: transparent;
+    color: #FF00FF;
+    font-size: 1.5em;
+    border: none;
+}
+
+#workspaceMenu {
+    height: inherit;
+    padding-left: 1em;
+}
+
+#workspaceAside {
+    display: flex;
+    flex-direction: column;
+    border: 4px solid #380F38;
+    border-radius: 10px;
+    height: 25vh;
+    width: 3rem;
+    background: #220522;
+    box-shadow: none;
+    position: fixed;
+    margin-top: 6em;
+    margin-left: 2em;
+    z-index: 2;
+}
+
+#workspaceAsideMenu {
+    height: inherit;
+    padding-top: 1em;
+}
+
+main {
+    min-height: 100vh;
+    background: #120012;
+}
+
+#workspace {
+    position: fixed;
+
+}
+
+#workplace {
+    width: 65vw;
+    align-items: center;
+}
+
+.dev-box {
+    margin-top: 10vw;
+    color: #FBE2FB;
+    background: #6D006D;
+    width: 20rem;
+    height: 6rem;
+}
+
+.dev-box>header, .dev-box>section, .dev-box>footer {
+    height: 2rem;
+}
+
+#domain {
+
+}
+
+#domainDescription {
+    font-size: 1.3em;
+    display: none;
+}
+
+#domain input {
+    font-size:  2em;
+    line-height: 1.5em;
+    width:  50vw;
+}
+
+#closeDomain {
+  text-align: right;
+}
+
+#sidebar {
+    z-index: 2;
+    min-width: 35vw;
+    background: #220522;
+    /*
+    background: #3B093A;
+
+     */
+    /*
+    background: #db7093;
+
+     */
+  /*
+    box-shadow: 0 30px 20px 20px #fefcfc;
+  */
+    padding: 1em;
+}
