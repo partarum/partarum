@@ -25,6 +25,6 @@ AddType application/x-font-woff        woff2
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{HTTP_HOST} ^(composer.)?partarum.de$
+RewriteCond %{HTTP_HOST} ^(final.)?partarum.download$
 RewriteCond %{REQUEST_URI} !^/public/
 RewriteRule  ^(.*)?$ index.php [QSA]

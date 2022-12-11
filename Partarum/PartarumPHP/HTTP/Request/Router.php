@@ -154,7 +154,7 @@ namespace Partarum\HTTP\Request {
 
         public function with(?string $uri) : bool {
 
-            echo "<p>$uri</p>";
+            //echo "<p>$uri</p>";
 
              if(isset($uri)){
                  if($this->setBase($uri) === TRUE) {
