@@ -1,0 +1,3 @@
+Cookies haben verschiedene Funktionen.
+Zahlreiche Cookies sind technisch notwendig, da bestimmte Websitefunktionen ohne diese nicht funktionieren würden (z.B. die Warenkorbfunktion oder die Anzeige von Videos).
+Andere Cookies dienen dazu, das Nutzerverhalten auszuwertenoder Werbung anzuzeigen.
