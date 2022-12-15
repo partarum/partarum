@@ -1,0 +1,6 @@
+[
+    "API\/V1\/JWT.php",
+    "API\/V1\/JWTdecode.php",
+    "API\/V1\/CONVERT\/DecBin.php",
+    "API\/V1\/UUID.php"
+]
