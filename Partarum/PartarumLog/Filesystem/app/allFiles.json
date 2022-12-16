@@ -1,0 +1,8 @@
+[
+    "app\/src\/php\/PHPMailer\/PHPMailer.php",
+    "app\/src\/php\/PHPMailer\/Exception.php",
+    "app\/src\/php\/PHPMailer\/SMTP.php",
+    "app\/src\/php\/PHPMailer\/OAuth.php",
+    "app\/src\/php\/PHPMailer\/POP3.php",
+    "app\/landingPage.php"
+]

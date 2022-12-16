@@ -1,0 +1,44 @@
+[
+    {
+        "dirname": "config",
+        "basename": "surface-manifest.json",
+        "extension": "json",
+        "filename": "surface-manifest"
+    },
+    {
+        "dirname": "config",
+        "basename": "fetch-manifest.json",
+        "extension": "json",
+        "filename": "fetch-manifest"
+    },
+    {
+        "dirname": "config",
+        "basename": "routes-manifest.json",
+        "extension": "json",
+        "filename": "routes-manifest"
+    },
+    {
+        "dirname": "config",
+        "basename": "text-manifest.json",
+        "extension": "json",
+        "filename": "text-manifest"
+    },
+    {
+        "dirname": "config",
+        "basename": "sequenceOfEvents-manifest.json",
+        "extension": "json",
+        "filename": "sequenceOfEvents-manifest"
+    },
+    {
+        "dirname": "config",
+        "basename": "error-manifest.json",
+        "extension": "json",
+        "filename": "error-manifest"
+    },
+    {
+        "dirname": "config",
+        "basename": "assets-manifest.json",
+        "extension": "json",
+        "filename": "assets-manifest"
+    }
+]
