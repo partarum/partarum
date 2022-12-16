@@ -5,7 +5,7 @@
   "Partarum/PartarumCSS/partarum_root.css": "Partarum/PartarumCSS/partarum_root.css",
   "Partarum/PartarumCSS/partarum_elements.css": "Partarum/PartarumCSS/partarum_elements.css",
   "Partarum/PartarumCSS/partarum_split.css": "Partarum/PartarumCSS/partarum_split.css",
-  "Partarum/PartarumJS/Partarum.js": "Partarum/PartarumJS/Partarum.js",
+  "Partarum/PartarumJS/Partarum.js": "Partarum/PartarumJS/ClientSide/Partarum.js",
   "Partarum/PartarumJS/Office.js": "Partarum/PartarumJS/Office.js",
   "Partarum/PartarumJS/classes/ConfigRouter.js": "Partarum/PartarumJS/classes/ConfigRouter.js",
   "Partarum/PartarumJS/classes/ClientSetting.js": "Partarum/PartarumJS/classes/ClientSetting.js",

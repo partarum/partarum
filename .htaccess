@@ -8,7 +8,7 @@ RewriteRule (^|/)Partarum/PartarumIntern(/|$) - [F]
 RewriteRule (^|/)Partarum/PartarumLorem(/|$) - [F]
 RewriteRule (^|/)Partarum/PartarumPHP(/|$) - [F]
 RewriteRule (^|/)Partarum/PartarumSecura(/|$) - [F]
-RewriteRule (^|/)config(/|$) - [F]
+#RewriteRule (^|/)config/assets-manifest.json(/|$) - [F]
 
 RewriteBase /
 
