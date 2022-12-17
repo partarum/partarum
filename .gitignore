@@ -5,6 +5,7 @@
 /setWSLBase
 /fetchMain
 /cloneModule
+/getRep
 /vendor
 /.git
 /.idea

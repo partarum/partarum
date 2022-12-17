@@ -179,7 +179,7 @@ namespace Partarum\HTTP\Request {
         }
 
 
-        public static function addRouter(string $name, string $manifestPath){
+        public static function addRouter(string $name, string $manifestPath): void {
 
             Manifest::addUserRouter($name, $manifestPath);
         }

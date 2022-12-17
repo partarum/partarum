@@ -287,37 +287,7 @@ article:focus {
     outline: none !important;
 }
 
-.hamburger {
-    display: none;
-    appearance: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    color: #FFFFFF;
-    font-size: 2.5em;
-    margin-top: auto;
-    margin-right: 1em;
-    margin-bottom: auto;
-    z-index: 1000;
-    outline: none;
-    border: none;
-}
-
-
-.hamburger::before {
-    content: "\f0c9";
-    font-family: "FontAwesome", serif;
-    display: none;
-    white-space: pre;
-}
-
-.hamburger::after {
-    content: "\f00d";
-    font-family: "FontAwesome", serif;
-    display: none;
-    white-space: pre;
-}
-
-.app-header, #header{
+.app-header{
     display: flex;
     flex-direction: row;
     position: absolute;
@@ -1239,22 +1209,6 @@ textarea {
         top: 0;
         padding-right: 5em;
         z-index: 900;
-    }
-
-    .hamburger, .hamburger::before {
-        display: inherit;
-    }
-
-    .hamburger:checked::before {
-        display: none;
-    }
-
-    .hamburger:checked::after {
-        display: inherit;
-    }
-
-    .hamburger:checked + nav {
-        display: flex;
     }
 
     .media-box-column {

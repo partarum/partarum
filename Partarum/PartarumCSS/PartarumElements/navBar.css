@@ -44,3 +44,19 @@ partarum-nav-bar-body > nav {
         transform: scale(1);
     }
 }
+
+@media only screen and (min-width: 200px) and (max-width: 1100px) {
+
+    partarum-nav-bar-body {
+        padding: 0 !important;
+    }
+
+    partarum-nav-bar-body:has(partarum-menu-hamburger){
+        width: 100vw;
+        padding: 0;
+    }
+
+    partarum-nav-bar-body > nav{
+        display: none;
+    }
+}
