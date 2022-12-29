@@ -1,0 +1,18 @@
+:root {
+    --ratio1_1_medium: calc(calc(100vw - calc(100vw / 1.1)) / 3);
+    --ratio1_2_medium: calc(calc(100vw - calc(100vw / 1.2)) / 3);
+    --ratio1_3_medium: calc(calc(100vw - calc(100vw / 1.3)) / 3);
+    --ratio1_4_medium: calc(calc(100vw - calc(100vw / 1.4)) / 3);
+    --ratio1_5_medium: calc(calc(100vw - calc(100vw / 1.5)) / 3);
+    --ratio1_6_medium: calc(calc(100vw - calc(100vw / 1.6)) / 3);
+    --ratio1_7_medium: calc(calc(100vw - calc(100vw / 1.7)) / 3);
+    --ratio1_8_medium: calc(calc(100vw - calc(100vw / 1.8)) / 3);
+    --ratio1_9_medium: calc(calc(100vw - calc(100vw / 1.9)) / 3);
+    --ratio2_0_medium: calc(calc(100vw - calc(100vw / 2)) / 3);
+    --ratio2_1_medium: calc(calc(100vw - calc(100vw / 2.1)) / 3);
+    --ratio2_2_medium: calc(calc(100vw - calc(100vw / 2.2)) / 3);
+    --ratio2_3_medium: calc(calc(100vw - calc(100vw / 2.3)) / 3);
+    --ratio2_4_medium: calc(calc(100vw - calc(100vw / 2.4)) / 3);
+    --ratio2_5_medium: calc(calc(100vw - calc(100vw / 2.5)) / 3);
+    --ratio2_6_medium: calc(calc(100vw - calc(100vw / 2.6)) / 3);
+}
