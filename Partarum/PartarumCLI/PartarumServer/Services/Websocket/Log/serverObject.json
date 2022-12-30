@@ -1,0 +1,35 @@
+{
+  "setting": {
+    "worker_num": 3,
+    "task_worker_num": 0,
+    "output_buffer_size": 4294967295,
+    "max_connection": 1024,
+    "open_http_protocol": true,
+    "open_mqtt_protocol": false,
+    "open_eof_check": false,
+    "open_length_check": false,
+    "open_websocket_protocol": true
+  },
+  "connections": {},
+  "host": "10.8.0.50",
+  "port": 10000,
+  "type": 1,
+  "mode": 2,
+  "ports": [
+    {
+      "host": "10.8.0.50",
+      "port": 10000,
+      "type": 1,
+      "sock": 4,
+      "setting": null,
+      "connections": {}
+    }
+  ],
+  "master_pid": 2676362,
+  "manager_pid": 2676418,
+  "worker_id": 1,
+  "taskworker": false,
+  "worker_pid": 2676437,
+  "stats_timer": null,
+  "admin_server": null
+}

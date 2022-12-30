@@ -1,0 +1,22 @@
+{
+  "Partarum": {
+    "Cache": {
+      "WorkerMap": "Partarum/PartarumPHP/Cache/WorkerMap.php"
+    },
+    "Config": {
+      "GlobalConfig": "Partarum/PartarumPHP/Config/GlobalConfig.php"
+    },
+    "Database": {
+
+    },
+    "Design": {
+
+    },
+    "Document": {
+
+    },
+    "Filesystem": {
+
+    }
+  }
+}
