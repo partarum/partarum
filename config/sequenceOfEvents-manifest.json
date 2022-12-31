@@ -1,0 +1,44 @@
+{
+  "procedure": [
+    "landingPage"
+  ],
+  "pages": {
+    "landingPage": {
+      "surface": [
+        {
+          "header": {
+            "id": "header",
+            "class": "app-header nav-box headroom"
+          }
+        },
+        {
+          "main" : {
+            "id": "content"
+          }
+        },
+        {
+          "footer": {
+            "id": "footer",
+            "class": "box box-column footer-box footer-dark"
+          }
+        }
+      ],
+      "load": {
+        "css": [
+          "Partarum/CSS",
+          "assets/css/font-awesome.min.css"
+        ],
+        "js": [
+
+        ],
+        "media": [
+
+        ]
+      },
+      "meta": {
+
+      },
+      "nextStep": ""
+    }
+  }
+}

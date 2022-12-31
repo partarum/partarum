@@ -1,0 +1,20 @@
+{
+  "Partarum/PartarumWorkspace/surface/import": "Partarum/PartarumWorkspace/public/surface/surface-import.js",
+  "Partarum/Workspace/surface/landingPage/header": "Partarum/PartarumWorkspace/public/surface/pages/workspacePage/header/header.js",
+  "Partarum/Workspace/surface/landingPage/aside": "Partarum/PartarumWorkspace/public/surface/pages/workspacePage/aside/aside.js",
+  "Partarum/Workspace/surface/landingPage/main": "Partarum/PartarumWorkspace/public/surface/pages/workspacePage/main/main.js",
+  "Partarum/Workspace/surface/landingPage/main/slogan/headerBoxLeft": "Partarum/PartarumWorkspace/public/surface/pages/workspacePage/main/slogan/headerBoxLeft.js",
+  "Partarum/Workspace/surface/landingPage/main/slogan/headerBoxRight": "Partarum/PartarumWorkspace/public/surface/pages/workspacePage/main/slogan/headerBoxRight.js",
+  "Partarum/Workspace/surface/landingPage/main/pricing/productBox": "Partarum/PartarumWorkspace/public/surface/pages/workspacePage/main/pricing/productBox.js",
+  "Partarum/Workspace/surface/landingPage/main/pricing/productCards": "Partarum/PartarumWorkspace/public/surface/pages/workspacePage/main/pricing/productCards.js",
+  "Partarum/Workspace/surface/landingPage/footer": "Partarum/PartarumWorkspace/public/surface/pages/workspacePage/footer/footer.js",
+  "Partarum/Workspace/surface/landingPage/footer/footerBoxLeft": "Partarum/PartarumWorkspace/public/surface/pages/workspacePage/footer/footerBoxLeft.js",
+  "Partarum/Workspace/surface/landingPage/footer/footerBoxRight": "Partarum/PartarumWorkspace/public/surface/pages/workspacePage/footer/footerBoxRight.js",
+  "Partarum/Workspace/surface/global/header": "src/Partarum/Workspace/public/surface/global/header/header.js",
+  "Partarum/Workspace/surface/global/footer": "src/Partarum/Workspace/public/surface/global/footer/footer.js",
+  "Partarum/Workspace/surface/config": "src/Partarum/Workspace/public/surface/config/config.js",
+  "Partarum/Workspace/surface/templateValues/landingPage/header/primaryNav": "src/Partarum/Workspace/public/surface/templateValues/landingPage/header/primary.js",
+  "Partarum/Workspace/surface/templates/orderStatus": "src/Partarum/Workspace/public/surface/templates/orderStatus.js",
+  "Partarum/Workspace/surface/templates/condition/navigation": "src/Partarum/Workspace/public/surface/templates/condition/navigation.js",
+  "Partarum/Workspace/surface/templates/featureBox": "src/Partarum/Workspace/public/surface/templates/featureBox.js"
+}
