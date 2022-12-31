@@ -1,0 +1,19 @@
+{
+  "40880": {
+    "config": {
+      "ssl": {
+        "local_cert": "/etc/letsencrypt/live/dev.partarum.net/fullchain.pem",
+        "local_pk": "/etc/letsencrypt/live/dev.partarum.net/privkey.pem",
+        "verify_peer": false
+      },
+      "address": "0.0.0.0:10443",
+      "worker": 4
+    },
+    "routes": {
+      "CheckUpdate": {
+        "path": "APT/Update/CheckUpdate.php",
+        "class": "APT\\Update\\CheckUpdate"
+      }
+    }
+  }
+}

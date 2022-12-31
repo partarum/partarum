@@ -1,0 +1,9 @@
+[
+    "config\/surface-manifest.json",
+    "config\/fetch-manifest.json",
+    "config\/routes-manifest.json",
+    "config\/text-manifest.json",
+    "config\/sequenceOfEvents-manifest.json",
+    "config\/error-manifest.json",
+    "config\/assets-manifest.json"
+]
