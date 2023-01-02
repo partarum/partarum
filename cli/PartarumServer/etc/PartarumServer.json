@@ -1,0 +1,39 @@
+{
+  "websocket": {
+    "10.8.0.50":{
+      "60000": {
+        "handle": [
+          {
+            "event": "open",
+            "handle": {
+              "handler": "file_include || file_exec",
+              "path": "",
+              "description": "In der File wird eine Timer - Funktion definiert und ausgeführt - das heißt, das die PHP eingebunden werden muss"
+            }
+          },
+          {
+            "event": "message",
+            "handle": {
+              "handle": "upstream - message wird an einen anderen Socket weitergericht und erwartet ein Ergebnis zur Ausgabe / Rückgabe",
+              "path": "10.8.0.50:50400"
+            }
+          },
+          {
+            "event": "close",
+            "handle": {
+              "handler": "text/plain",
+              "text": " text, welcher gesendet wird - Bye Bye und fick deine Mudder",
+              "file": "...pfad zur Datei welche eingelesen und ausgegeben werden soll.
+            }
+          }
+        ]
+      },
+      "60001": {
+
+      },
+      "60003": {
+
+      }
+    }
+  }
+}
