@@ -1,0 +1,69 @@
+@import url("/Partarum/PartarumCSS/Design/singleBoxCenter.css");
+
+partarum-cookie {
+
+}
+
+partarum-cookie-banner {
+
+    display: grid;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+partarum-cookie-body {
+
+    display: grid;
+    margin-top: 25vh;
+    margin-bottom: 25vh;
+    grid-template-rows: 0.5fr 2fr 0.5fr;
+}
+
+partarum-cookie-header {
+
+    align-items: center;
+}
+
+partarum-cookie-main {
+
+}
+
+partarum-cookie-footer {
+
+    align-items: center;
+    padding: 0 3rem;
+}
+
+partarum-cookie-footer > section {
+
+    width: 50%;
+}
+
+partarum-cookie-footer :first-child {
+    justify-content: flex-start;
+}
+
+partarum-cookie-footer :last-child {
+    justify-content: flex-end;
+    gap: 3rem;
+}
+
+partarum-cookie-footer button {
+
+    height: 3em;
+}
+
+#partarumCookieIcon {
+    position: fixed;
+    bottom: 2rem;
+    left: 2rem;
+    font-size: 3.5rem;
+    --fa-animation-duration: 4s;
+    --fa-secondary-color: #96632f;
+    --fa-primary-color: #dcb083;
+    --fa-secondary-opacity: 0.8;
+    cursor: pointer;
+    filter: drop-shadow(0px 0px 3px #96632f)
+}
