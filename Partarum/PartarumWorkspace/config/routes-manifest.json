@@ -1,0 +1,6 @@
+{
+  "Partarum/Workspace": "Partarum/PartarumWorkspace/app/authPage.php",
+  "Partarum/PartarumWorkspace/css": "Partarum/PartarumWorkspace/public/assets/css/workspace.css",
+  "Partarum/PartarumWorkspace/WorkspacePage": "Partarum/PartarumWorkspace/public/assets/js/plainPHP/landingPage.js",
+  "Partarum/PartarumWorkspace/Import": "Partarum/PartarumWorkspace/public/surface/surface-import.js"
+}

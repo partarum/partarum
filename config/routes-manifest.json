@@ -1,0 +1,7 @@
+{
+  "": "app/landingPage.php",
+  "/": "app/landingPage.php",
+  "landingPage": "/app/landingPage.php",
+  "API/V1/status": "/API/V1/status.php",
+  "testwget": "/testwget.html"
+}
