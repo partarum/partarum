@@ -2839,8 +2839,8 @@ var testElement2 = class extends HTMLElement {
     console.dir(this);
   }
 };
-customElements.define("test-element", testElement);
-customElements.define("test-element2", testElement2);
+customElements.get("test-element") || customElements.define("test-element", testElement);
+customElements.get("test-element2") || customElements.define("test-element2", testElement2);
 
 // Partarum/PartarumJS/ClientSide/Events/MediaBoxEvent.js
 var Enlarge = class {
