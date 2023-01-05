@@ -1,0 +1,69 @@
+/*
+ *
+ *            Copyright 2020 © Alexander Bombis. All rights reserved.
+ *            Developed by Alexander Bombis.
+ *            Email: email@alexander-bombis.de
+ *
+ *            The following code was created based on the template for the website http://cordes-software.de.
+ *            This may also be used in full by the person or business
+ *            representing the domain "cordes-software.de"
+ *            and also modified for their use.
+ *
+ */
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a i {
+    margin-right: 0.5em;
+}
+
+li {
+    list-style-type: none;
+}
+
+input[type="radio"] {
+
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    font-size: 1.5em;
+    color: #FFFFFF;
+    margin-top: 0;
+    line-height: 0.5em;
+    margin-right: 0.5em;
+}
+
+input[type="radio"]::before {
+
+    content: "\f111";
+    font-family: 'FontAwesome', serif;
+}
+
+input[type="radio"]::after {
+
+    content: "\f058";
+    font-family: 'FontAwesome', serif;
+    display: none;
+}
+
+input[type="radio"]:hover::after {
+    display: none;
+}
+
+input[type="radio"]:hover::before {
+
+    content: "\f192";
+    font-family: 'FontAwesome', serif;
+    display: inherit;
+}
+
+input[type="radio"]:checked::after {
+    display: inherit;
+}
+
+input[type="radio"]:checked::before {
+    display: none;
+}

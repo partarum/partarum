@@ -1,0 +1,9 @@
+Welchen Type von Server möchtest du installieren?
+
+1. Websocket
+2. TCP / UDP
+3. HTTP
+4. MQTT
+5. GRPC
+
+Bitte antworte mit der entsprechenden Zahl (1 | 2 | 3 | 4 | 5):

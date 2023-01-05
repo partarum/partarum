@@ -1,0 +1,1 @@
+// eine Datei die Server- wie Client - Side verwendet werden kann

@@ -1,0 +1,18 @@
+:host, :root {
+    --ratio1_1: calc(calc(100vw - calc(100vw / 1.1)) / 2);
+    --ratio1_2: calc(calc(100vw - calc(100vw / 1.2)) / 2);
+    --ratio1_3: calc(calc(100vw - calc(100vw / 1.3)) / 2);
+    --ratio1_4: calc(calc(100vw - calc(100vw / 1.4)) / 2);
+    --ratio1_5: calc(calc(100vw - calc(100vw / 1.5)) / 2);
+    --ratio1_6: calc(calc(100vw - calc(100vw / 1.6)) / 2);
+    --ratio1_7: calc(calc(100vw - calc(100vw / 1.7)) / 2);
+    --ratio1_8: calc(calc(100vw - calc(100vw / 1.8)) / 2);
+    --ratio1_9: calc(calc(100vw - calc(100vw / 1.9)) / 2);
+    --ratio2_0: calc(calc(100vw - calc(100vw / 2)) / 2);
+    --ratio2_1: calc(calc(100vw - calc(100vw / 2.1)) / 2);
+    --ratio2_2: calc(calc(100vw - calc(100vw / 2.2)) / 2);
+    --ratio2_3: calc(calc(100vw - calc(100vw / 2.3)) / 2);
+    --ratio2_4: calc(calc(100vw - calc(100vw / 2.4)) / 2);
+    --ratio2_5: calc(calc(100vw - calc(100vw / 2.5)) / 2);
+    --ratio2_6: calc(calc(100vw - calc(100vw / 2.6)) / 2);
+}

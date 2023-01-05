@@ -1,0 +1,26 @@
+[
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/API\/V1",
+        "basename": "JWT.php",
+        "extension": "php",
+        "filename": "JWT"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/API\/V1",
+        "basename": "JWTdecode.php",
+        "extension": "php",
+        "filename": "JWTdecode"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/API\/V1\/CONVERT",
+        "basename": "DecBin.php",
+        "extension": "php",
+        "filename": "DecBin"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/API\/V1",
+        "basename": "UUID.php",
+        "extension": "php",
+        "filename": "UUID"
+    }
+]
