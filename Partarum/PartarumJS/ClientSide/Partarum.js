@@ -4,19 +4,6 @@ var __publicField = (obj, key, value) => {
   __defNormalProp(obj, typeof key !== "symbol" ? key + "" : key, value);
   return value;
 };
-var __accessCheck = (obj, member, msg) => {
-  if (!member.has(obj))
-    throw TypeError("Cannot " + msg);
-};
-var __privateAdd = (obj, member, value) => {
-  if (member.has(obj))
-    throw TypeError("Cannot add the same private member more than once");
-  member instanceof WeakSet ? member.add(obj) : member.set(obj, value);
-};
-var __privateMethod = (obj, member, method) => {
-  __accessCheck(obj, member, "access private method");
-  return method;
-};
 
 // Partarum/PartarumJS/ClientSide/Cache/PreloadCache.js
 var PreloadCache = class {
@@ -1197,15 +1184,23 @@ var HTMLPartarumElement = class extends HTMLElement {
 customElements.get("partarum-element") === void 0 && customElements.define("partarum-element", HTMLPartarumElement);
 
 // Partarum/PartarumJS/ClientSide/HTML/HTMLPartarumHost.js
-var _base, base_fn;
 var HTMLPartarumHost = class extends HTMLPartarumElement {
   constructor(config, name, id) {
     super(config, name, id);
-    __privateAdd(this, _base);
-    __privateMethod(this, _base, base_fn).call(this);
+    this.base();
   }
   connectedCallback() {
     super.connectedCallback();
+  }
+  base() {
+    this.partarum = window.Partarum;
+    this.root.dom = this.partarum.Cache.HTMLCache.create("partarum-host", this.root.name);
+    this.root.dom.add("shadowBox", this.attachShadow({ mode: "open" }), null);
+    let partarumCSS = document.createElement("link");
+    partarumCSS.setAttribute("rel", "stylesheet");
+    partarumCSS.setAttribute("type", "text/css");
+    partarumCSS.setAttribute("href", "/Partarum/css");
+    this.root.dom.add("shadowBox", partarumCSS, "append");
   }
   loadStyle(config) {
     return new Promise((resolve) => {
@@ -1246,19 +1241,8 @@ var HTMLPartarumHost = class extends HTMLPartarumElement {
     });
   }
 };
-_base = new WeakSet();
-base_fn = function() {
-  this.partarum = window.Partarum;
-  this.root.dom = this.partarum.Cache.HTMLCache.create("partarum-host", this.root.name);
-  this.root.dom.add("shadowBox", this.attachShadow({ mode: "open" }), null);
-  let partarumCSS = document.createElement("link");
-  partarumCSS.setAttribute("rel", "stylesheet");
-  partarumCSS.setAttribute("type", "text/css");
-  partarumCSS.setAttribute("href", "/Partarum/css");
-  this.root.dom.add("shadowBox", partarumCSS, "append");
-};
 __publicField(HTMLPartarumHost, "cache");
-customElements.get("partarum-host") === void 0 && customElements.define("partarum-host", HTMLPartarumHost);
+customElements.get("partarum-host") || customElements.define("partarum-host", HTMLPartarumHost);
 
 // Partarum/PartarumJS/ClientSide/HTML/PartarumCardBox/HTMLCardBoxHeader.js
 var HTMLCardBoxHeader = class extends HTMLPartarumElement {
