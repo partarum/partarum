@@ -1,0 +1,125 @@
+/*
+ *   Copyright 2018- 2021 © Alexander Bombis. All rights reserved.
+ *            Developed by Alexander Bombis.
+ *            Email: email@alexander-bombis.de
+ */
+
+
+body {
+  background-color: #670000;
+}
+
+.app-header, #header{
+
+    background: linear-gradient(90deg, #FFFFFF, #FEF5FE, #FBE2FB, #C4A7C4, #3B093A);
+    transition: transform 1s, box-shadow 0.4s;
+}
+
+.app-header .logo-box {
+    width: 30%;
+    margin-left: 3em;
+    margin-top: auto;
+}
+
+.app-header .menu-box {
+    width: 70%;
+}
+
+.menu-box nav {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.nav-primary li {
+    color: #3B093A;
+}
+
+.nav-primary li:hover {
+    color: rgba(66, 42, 66, 0.7);
+}
+
+.nav-secondary li {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.nav-secondary li:hover {
+    color: var(--color-main);
+}
+
+.nav-box {
+    box-shadow: 0 8px 20px 14px #db7093;
+}
+
+#footer {
+  background-color: #410202;
+}
+
+main {
+  min-height: 80vh;
+    background-image: url(../../../../../../src/Partarum/Workspace/public/assets/media/purple_unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#slogan {
+    justify-content: space-evenly;
+}
+
+#fullWidthBox {
+    background: linear-gradient(
+            180deg
+            , transparent,#FBE2FB,#C4A7C4,#FBE2FB, transparent);
+}
+
+#fullWidthBox div {
+    width: 5%;
+}
+
+#sloganLogo {
+
+    width: 90%;
+}
+
+#sloganProducts {
+
+}
+
+#slogan ul {
+  width: 90%;
+  justify-content: space-evenly;
+  font-size: 3em;
+}
+
+#headerNav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#primaryNav {
+    width: 70%;
+    justify-content: space-around;
+}
+
+#secondaryNav {
+    width:  30%;
+}
+
+.header-box {
+    color: #FBE2FB;
+}
+
+.blackBox {
+    background: rgba(0, 0, 0, 0.5);
+    max-width: 100ch;
+    padding: 2em;
+    line-height: 1.4em;
+}
+
+.codeBox {
+    background: rgba(0, 0, 0, 0.5);
+    max-width: 1500ch;
+    padding: 2em;
+    margin: 2em;
+    line-height: 2em;
+}

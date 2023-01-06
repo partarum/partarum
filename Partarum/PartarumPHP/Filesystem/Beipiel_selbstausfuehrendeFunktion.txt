@@ -1,0 +1,9 @@
+Beispiel für if-Anweisung mit selbstausführender Funktion
+
+ /* 
+   ($iteratorUnix->isDir()) ? (function($wtf){
+        print_r($wtf);
+    })($wtf) : (function(){
+        echo "hääää";
+    })();
+    */

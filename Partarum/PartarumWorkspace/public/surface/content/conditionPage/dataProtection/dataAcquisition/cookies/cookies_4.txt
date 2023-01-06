@@ -1,0 +1,7 @@
+Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs (notwendige Cookies) oder zur Bereitstellung bestimmter,
+von Ihnen erwünschter Funktionen (funktionale Cookies, z. B. für die Warenkorbfunktion)
+oder zur Optimierung der Website (z.B. Cookies zur Messung des Webpublikums) erforderlich sind,
+werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert, sofern keine andere Rechtsgrundlage angegeben wird.
+Der Websitebetreiber hat ein berechtigtes Interesse an der Speicherung von Cookies zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste.
+Sofern eine Einwilligung zur Speicherung von Cookies abgefragt wurde,
+erfolgt die Speicherung der betreffenden Cookies ausschließlich auf Grundlage dieser Einwilligung (Art. 6 Abs. 1 lit. a DSGVO); die Einwilligung ist jederzeit widerrufbar.
