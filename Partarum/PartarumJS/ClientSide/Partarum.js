@@ -4342,6 +4342,7 @@ var Template = class {
 };
 export {
   Cache,
+  HTML,
   Partarum2 as Partarum,
   Workshop
 };
