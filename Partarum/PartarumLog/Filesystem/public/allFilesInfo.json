@@ -1,0 +1,296 @@
+[
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/surface\/config",
+        "basename": "config.js",
+        "extension": "js",
+        "filename": "config"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/surface\/pages\/landingPage\/main",
+        "basename": "main.js",
+        "extension": "js",
+        "filename": "main"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/surface\/pages\/landingPage\/footer",
+        "basename": "footer.js",
+        "extension": "js",
+        "filename": "footer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/surface\/pages\/landingPage\/header",
+        "basename": "header.js",
+        "extension": "js",
+        "filename": "header"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/surface\/templates\/condition",
+        "basename": "navigation.js",
+        "extension": "js",
+        "filename": "navigation"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/surface\/templates",
+        "basename": "orderStatus.js",
+        "extension": "js",
+        "filename": "orderStatus"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/surface\/templates",
+        "basename": "featureBox.js",
+        "extension": "js",
+        "filename": "featureBox"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/surface\/global\/footer",
+        "basename": "footer.js",
+        "extension": "js",
+        "filename": "footer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/surface\/global\/header",
+        "basename": "header.js",
+        "extension": "js",
+        "filename": "header"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/surface",
+        "basename": "surface-import.js",
+        "extension": "js",
+        "filename": "surface-import"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/js",
+        "basename": "landingPage.js",
+        "extension": "js",
+        "filename": "landingPage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/css",
+        "basename": ".htaccess",
+        "extension": "htaccess",
+        "filename": ""
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/css",
+        "basename": "landingPage.css",
+        "extension": "css",
+        "filename": "landingPage"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/fonts\/Google",
+        "basename": "concert-one-v17-latin-regular.woff2",
+        "extension": "woff2",
+        "filename": "concert-one-v17-latin-regular"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/fonts\/Google",
+        "basename": "henny-penny-v17-latin-regular.woff2",
+        "extension": "woff2",
+        "filename": "henny-penny-v17-latin-regular"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/fonts\/Google",
+        "basename": "special-elite-v18-latin-regular.woff2",
+        "extension": "woff2",
+        "filename": "special-elite-v18-latin-regular"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/fonts\/Google",
+        "basename": "permanent-marker-v16-latin-regular.woff2",
+        "extension": "woff2",
+        "filename": "permanent-marker-v16-latin-regular"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/fonts\/Google",
+        "basename": "codystar-v15-latin-regular.woff2",
+        "extension": "woff2",
+        "filename": "codystar-v15-latin-regular"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/fonts\/Google",
+        "basename": "press-start-2p-v14-latin-regular.woff2",
+        "extension": "woff2",
+        "filename": "press-start-2p-v14-latin-regular"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/fonts\/Google",
+        "basename": "luckiest-guy-v18-latin-regular.woff2",
+        "extension": "woff2",
+        "filename": "luckiest-guy-v18-latin-regular"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/fonts\/Google",
+        "basename": "open-sans-v29-latin-regular.woff2",
+        "extension": "woff2",
+        "filename": "open-sans-v29-latin-regular"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/fonts\/Jetbrains",
+        "basename": "JetBrainsMono-Regular.woff2",
+        "extension": "woff2",
+        "filename": "JetBrainsMono-Regular"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media",
+        "basename": ".htaccess",
+        "extension": "htaccess",
+        "filename": ""
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp",
+        "basename": "Readme.txt",
+        "extension": "txt",
+        "filename": "Readme"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp",
+        "basename": "Readme-mux.txt",
+        "extension": "txt",
+        "filename": "Readme-mux"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/lib",
+        "basename": "libwebpmux.lib",
+        "extension": "lib",
+        "filename": "libwebpmux"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/lib",
+        "basename": "libwebp.lib",
+        "extension": "lib",
+        "filename": "libwebp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/lib",
+        "basename": "libwebpdemux.lib",
+        "extension": "lib",
+        "filename": "libwebpdemux"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/include\/webp",
+        "basename": "demux.h",
+        "extension": "h",
+        "filename": "demux"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/include\/webp",
+        "basename": "decode.h",
+        "extension": "h",
+        "filename": "decode"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/include\/webp",
+        "basename": "mux_types.h",
+        "extension": "h",
+        "filename": "mux_types"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/include\/webp",
+        "basename": "mux.h",
+        "extension": "h",
+        "filename": "mux"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/include\/webp",
+        "basename": "encode.h",
+        "extension": "h",
+        "filename": "encode"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/include\/webp",
+        "basename": "types.h",
+        "extension": "h",
+        "filename": "types"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "cwebp.exe",
+        "extension": "exe",
+        "filename": "cwebp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "webpmux.exe",
+        "extension": "exe",
+        "filename": "webpmux"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "vwebp.exe",
+        "extension": "exe",
+        "filename": "vwebp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "webp_quality.exe",
+        "extension": "exe",
+        "filename": "webp_quality"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "gif2webp.exe",
+        "extension": "exe",
+        "filename": "gif2webp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "anim_diff.exe",
+        "extension": "exe",
+        "filename": "anim_diff"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "dwebp.exe",
+        "extension": "exe",
+        "filename": "dwebp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "img2webp.exe",
+        "extension": "exe",
+        "filename": "img2webp"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "get_disto.exe",
+        "extension": "exe",
+        "filename": "get_disto"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "anim_dump.exe",
+        "extension": "exe",
+        "filename": "anim_dump"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "freeglut.dll",
+        "extension": "dll",
+        "filename": "freeglut"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp\/bin",
+        "basename": "webpinfo.exe",
+        "extension": "exe",
+        "filename": "webpinfo"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/webp",
+        "basename": "test_ref.ppm",
+        "extension": "ppm",
+        "filename": "test_ref"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/icons",
+        "basename": "apple-touch-icon.png",
+        "extension": "png",
+        "filename": "apple-touch-icon"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/public\/assets\/media\/img\/icons",
+        "basename": "favicon.ico",
+        "extension": "ico",
+        "filename": "favicon"
+    }
+]
