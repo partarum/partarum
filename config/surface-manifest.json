@@ -1,0 +1,12 @@
+{
+  "surface/import": "public/surface/surface-import.js",
+  "surface/landingPage/header": "public/surface/pages/landingPage/header/header.js",
+  "surface/landingPage/main": "public/surface/pages/landingPage/main/main.js",
+  "surface/landingPage/footer": "public/surface/pages/landingPage/footer/footer.js",
+  "surface/global/header": "public/surface/global/header/header.js",
+  "surface/global/footer": "public/surface/global/footer/footer.js",
+  "surface/config": "public/surface/config/config.js",
+  "surface/templates/orderStatus": "public/surface/templates/orderStatus.js",
+  "surface/templates/condition/navigation": "public/surface/templates/condition/navigation.js",
+  "surface/templates/featureBox": "public/surface/templates/featureBox.js"
+}

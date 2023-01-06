@@ -1,0 +1,38 @@
+[
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/app\/src\/php\/PHPMailer",
+        "basename": "PHPMailer.php",
+        "extension": "php",
+        "filename": "PHPMailer"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/app\/src\/php\/PHPMailer",
+        "basename": "Exception.php",
+        "extension": "php",
+        "filename": "Exception"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/app\/src\/php\/PHPMailer",
+        "basename": "SMTP.php",
+        "extension": "php",
+        "filename": "SMTP"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/app\/src\/php\/PHPMailer",
+        "basename": "OAuth.php",
+        "extension": "php",
+        "filename": "OAuth"
+    },
+    {
+        "dirname": "\/home\/bombisa\/www\/currently.partarum.download\/app\/src\/php\/PHPMailer",
+        "basename": "POP3.php",
+        "extension": "php",
+        "filename": "POP3"
+    },
+    {
+        "dirname": "app",
+        "basename": "landingPage.php",
+        "extension": "php",
+        "filename": "landingPage"
+    }
+]

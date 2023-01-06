@@ -1,0 +1,35 @@
+/*
+ *   Copyright 2018- 2021 © Alexander Bombis. All rights reserved.
+ *            Developed by Alexander Bombis.
+ *            Email: email@alexander-bombis.de
+ */
+
+main {
+    display: flex;
+    flex-direction: row;
+    padding-top: 10vh;
+    color: #FBE2FB;
+}
+
+#partarumSidebar {
+    min-width: 15vw;
+    background: rgba(219, 112, 147, 0.4);
+    padding: 3em;
+}
+
+#partarumSidebar li {
+    margin: 1em;
+    font-size: 1.2rem;
+}
+
+#partarumDocumentation {
+    margin-left: 3em;
+    padding: 3em;
+    width: 80vw;
+}
+
+#partarumShowBox {
+    min-width: auto;
+    width: 60%;
+    padding: 2em 0;
+}
