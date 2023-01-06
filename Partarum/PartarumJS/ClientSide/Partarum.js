@@ -3897,6 +3897,7 @@ var Station = class {
   loadPage(filePath) {
     async function load(arg, id) {
       if (typeof filePath === "string") {
+        console.dir(filePath);
         return await import(filePath).then((data) => {
           return {
             [arg.theme]: {
@@ -3908,6 +3909,7 @@ var Station = class {
             }
           };
         }).catch((error) => {
+          console.log(filePath);
           console.dir(error);
         });
       } else if (typeof filePath === "object") {
