@@ -1,0 +1,72 @@
+partarum-menu-hamburger input[type="checkbox"], #partarumMenuHamburgerTrigger {
+    display: none;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    color: #FFFFFF;
+    font-size: 2.5em;
+    margin-top: auto;
+    margin-right: 1em;
+    margin-bottom: auto;
+    z-index: 1000;
+    outline: none;
+    border: none;
+}
+
+
+partarum-menu-hamburger input[type="checkbox"]::before, #partarumMenuHamburgerTrigger::before {
+    content: "\f0c9";
+    font-family: "FontAwesome", serif;
+    display: none;
+    white-space: pre;
+}
+
+partarum-menu-hamburger input[type="checkbox"]::after, #partarumMenuHamburgerTrigger::after {
+    content: "\f00d";
+    font-family: "FontAwesome", serif;
+    display: none;
+    white-space: pre;
+}
+
+@media only screen and (min-width: 200px) and (max-width: 1100px) {
+
+    partarum-nav-bar-body:has(partarum-menu-hamburger){
+        width: 100vw;
+        padding: 0;
+    }
+
+    partarum-nav-bar-body > nav{
+        display: none;
+    }
+
+    partarum-menu-hamburger, #partarumMenuHamburger {
+        width: 100vw;
+        padding: 0;
+        margin: 0;
+    }
+
+    partarum-menu-hamburger input[type="checkbox"], #partarumMenuHamburgerTrigger {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: 0;
+        width: 100vw;
+    }
+
+    partarum-menu-Hamburger input[type="checkbox"]::before, #partarumMenuHamburgerTrigger::before {
+        display: inherit;
+    }
+
+    partarum-menu-Hamburger input[type="checkbox"]:checked::before, #partarumMenuHamburgerTrigger:checked::before {
+        display: none;
+    }
+
+    partarum-menu-Hamburger input[type="checkbox"]:checked::after, #partarumMenuHamburgerTrigger:checked::after {
+        display: inherit;
+    }
+
+    partarum-menu-Hamburger input[type="checkbox"] + nav,  #partarumMenuHamburgerTrigger + nav {
+        display: flex;
+    }
+}
